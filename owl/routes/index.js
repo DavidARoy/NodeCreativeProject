@@ -6,35 +6,6 @@ var request = require('request');
 router.get('/', function(req, res, next) {
     res.sendFile('weather.html', { root: 'public' });
 });
-/*
-router.get('/getcity', function(req, res, next) {
-    console.log("In getcity route");
-    var fs = require('fs');
-    var myRe = new RegExp("^" + req.query.q);
-
-    fs.readFile(__dirname + '/cities.dat.txt', function(err, data) {
-        if (err) throw err;
-        var cities = data.toString().split("\n");
-        for (var i = 0; i < cities.length; i++) {
-            //console.log(cities[i]);
-            var result = cities[i].search(myRe);
-            if (result != -1) {
-                //console.log(cities[i]);
-            }
-
-            var jsonresult = [];
-            for (var i = 0; i < cities.length; i++) {
-                var result = cities[i].search(myRe);
-                if (result != -1) {
-                    //console.log(cities[i]);
-                    jsonresult.push({ city: cities[i] });
-                }
-            }
-        }
-        res.status(200).json(jsonresult);
-    });
-});
-*/
 
 router.get('/randomWord', function(req, res, next) {
     function getRandomInt(max) {
@@ -73,18 +44,10 @@ router.get('/randomWord', function(req, res, next) {
 
 router.get('/word', function(req, res, next) {
     var fs = require('fs');
-    fs.readFile(__dirname + "/word.txt", function(err, data) {
+    fs.readFile(__dirname + '/word.txt', function(err, data) {
         if (err) throw err;
         var word = data.toString();
-        
-        const Readable = require('stream').Readable;
-        const s = new Readable();
-        s._read = () => {};
-        s.push(word);
-        s.push(null);
-        
-        
-        s.pipe(res);
+        res.status(200).json(word);
     })
 })
 
