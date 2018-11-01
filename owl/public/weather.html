@@ -10,13 +10,14 @@
             display: gird;
             grid-template-areas: 'header2' 'content2' 'footer';
         }
+      
+.dictionaryTitle {
+    color: black;
+    text-align: center;
+    font-size: 72pt;
+    text-shadow: black 0 0 20px;
+}
 
-        .weatherTitle {
-            color: black;
-            text-align: center;
-            font-size: 72pt;
-            text-shadow: black 0 0 20px;
-        }
 
         .header2 {
             grid-area: header2;
@@ -55,7 +56,7 @@
 
 <body>
     <div class="header2">
-        <h1 class="weatherTitle">Dictionary</h1>
+        <h1 class="dictionaryTitle">Dictionary</h1>
     </div>
     <div class="content2">
         <button id="randomButton">random</button>
