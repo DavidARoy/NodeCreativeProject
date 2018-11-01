@@ -63,6 +63,66 @@ li {
         <h1 class="dictionaryTitle">Dictionary</h1>
     </div>
     <div class="content2">
+        <button id="randomButton">random</button>
+        <button id="wordButton">word</button>
+        <br> Word: <span id="word"></span>
+        <br> Definition: <span id="randomResults"></span>
+    </div>
+    <script>
+        $("#randomButton").click(function(event) {
+            event.preventDefault();
+            var url = "randomWord?q=";
+            url += "unknown";
+            console.log(url);
+            $.getJSON(url, function(data) {
+                console.log(data);
+                var everything = "<ul>";
+                $.each(data, function(i, item) {
+                    everything += "<li>" + data[i].defenition + "</li>"
+                })
+                everything += "</ul>";
+                $("#randomResults").html(everything);
+            })
+            url = "word";
+            console.log(url);
+            $.getJSON(url, function(data) {
+                console.log(data);
+                var everything = "<ul>";
+                $.each(data, function(i, item) {
+                    everything += "<li>" + data + "</li>"
+                })
+                everything += "</ul>";
+                $("#word").html(everything);
+            })
+        })
+         $("#wordButton").click(function(event) {
+            event.preventDefault();
+            var url = "randomWord?q=";
+            url += "unknown";
+            console.log(url);
+            $.getJSON(url, function(data) {
+                console.log(data);
+                var everything = "<ul>";
+                $.each(data, function(i, item) {
+                    everything += "<li>" + data[i].defenition + "</li>"
+                })
+                everything += "</ul>";
+                $("#randomResults").html(everything);
+            })
+            url = "word";
+            console.log(url);
+            $.getJSON(url, function(data) {
+                console.log(data);
+                var everything = "<ul>";
+                $.each(data, function(i, item) {
+                    everything += "<li>" + data + "</li>"
+                })
+                everything += "</ul>";
+                $("#word").html(everything);
+            })
+        })
+    </script>
+    <div class="content2">
         <form>
             Enter a Word to Define: <input type="text" id="mydict" value="">
             <button id="dictbutton">Submit</button><br> Definition: <span id="results"></span>
@@ -71,7 +131,7 @@ li {
     <script>
         $("#dictbutton").click(function(event) {
             event.preventDefault();
-            url = "dictionary?q=";
+            var url = "dictionary?q=";
             url += $("#mydict").val();
             console.log(url);
             $.getJSON(url, function(data) {

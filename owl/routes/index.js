@@ -35,6 +35,7 @@ router.get('/getcity', function(req, res, next) {
     });
 });
 */
+
 router.get('/randomWord', function(req, res, next) {
     function getRandomInt(max) {
         return Math.floor(Math.random() * Math.floor(max));
@@ -43,20 +44,47 @@ router.get('/randomWord', function(req, res, next) {
     console.log("In random word route");
     var fs = require('fs');
     var words;
+    var index;
+    var word = [];
+    var url;
 
     fs.readFile(__dirname + "/words.dat.txt", function(err, data) {
         if (err) throw err;
         words = data.toString().split("\n");
         console.log(words);
-        var index = getRandomInt(words.length);
+        index = getRandomInt(words.length);
         console.log(index);
-        var word = words[index];
+        word = words[index];
         console.log(word);
-        var url = "https://owlbot.info/api/v1/dictionary/";
+        url = "https://owlbot.info/api/v1/dictionary/";
         url += word;
         url += "?format=json";
         console.log(url);
+
+        
+        fs.writeFile(__dirname + '/word.txt', word, function(err) {
+            if (err) throw err;
+            console.log('Replaced!');
+        });
+
         request(url).pipe(res);
+    })
+})
+
+router.get('/word', function(req, res, next) {
+    var fs = require('fs');
+    fs.readFile(__dirname + "/word.txt", function(err, data) {
+        if (err) throw err;
+        var word = data.toString();
+        
+        const Readable = require('stream').Readable;
+        const s = new Readable();
+        s._read = () => {};
+        s.push(word);
+        s.push(null);
+        
+        
+        s.pipe(res);
     })
 })
 
