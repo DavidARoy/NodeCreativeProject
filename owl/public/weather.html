@@ -60,37 +60,41 @@
     </div>
     <div class="content2">
         <button id="randomButton">random</button>
-        <button id="wordButton">word</button>
-        <br> Word: <span id="word"></span>
+        <span id="word"></span>
         <br> Definition: <span id="randomResults"></span>
     </div>
     <script>
-        $("#randomButton").click(function(event) {
-            event.preventDefault();
-            var url = "randomWord?q=";
-            url += "unknown";
-            console.log(url);
-            $.getJSON(url, function(data) {
-                console.log(data);
-                var everything = "<ul>";
-                $.each(data, function(i, item) {
-                    everything += "<li>" + data[i].defenition + "</li>"
-                })
-                everything += "</ul>";
-                $("#randomResults").html(everything);
-            })
-        })
-        $("#wordButton").click(function(event) {
-            event.preventDefault();
-            var url = "word";
-            console.log(url);
-            $.getJSON(url, function(data) {
-                console.log(data);
-                var everything = "<h2>";
-                everything += data;
-                everything += "</h2>";
+        $(document).ready(function() {
+            console.log("ready!");
+            $("#randomButton").trigger('click');
+            $("#randomButton").trigger('click');
 
-                $("#word").html(everything);
+            $("#randomButton").click(function(event) {
+                event.preventDefault();
+                var url = "randomWord?q=";
+                url += "unknown";
+                console.log(url);
+                $.getJSON(url, function(data) {
+                    console.log(data);
+                    var everything = "<ul>";
+                    $.each(data, function(i, item) {
+                        everything += "<li>" + data[i].defenition + "</li>"
+                    })
+                    everything += "</ul>";
+                    $("#randomResults").html(everything);
+                })
+            })
+            $("#randomButton").click(function(event) {
+                event.preventDefault();
+                var url = "word";
+                console.log(url);
+                $.getJSON(url, function(data) {
+                    console.log(data);
+                    var everything = "<h2>";
+                    everything += data;
+                    everything += "</h2>";
+                    $("#word").html(everything);
+                })
             })
         })
     </script>
