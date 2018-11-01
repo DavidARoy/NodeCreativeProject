@@ -1,0 +1,200 @@
+nohup: ignoring input
+Runnin on 4200
+[0mGET /weather.html [32m200 [0m7.945 ms - 5877[0m
+[0mGET /stylesheet/style.css [33m404 [0m303.718 ms - 1182[0m
+In getcity route
+[0mGET /getcity?q=B [32m200 [0m3.461 ms - 312[0m
+In getcity route
+[0mGET /getcity?q=B [36m304 [0m2.672 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Bou [32m200 [0m1.143 ms - 41[0m
+In getcity route
+[0mGET /getcity?q=Bou [36m304 [0m22.626 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Boul [32m200 [0m2.433 ms - 20[0m
+In getcity route
+[0mGET /getcity?q=Bould [32m200 [0m1.532 ms - 20[0m
+In getcity route
+[0mGET /getcity?q=Boulder [32m200 [0m1.089 ms - 20[0m
+In getcity route
+[0mGET /getcity?q=Boulder [36m304 [0m1.169 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Boulder [36m304 [0m0.683 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Something?format=json
+[0mGET /dictionary?q=Something [32m200 [0m231.888 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Something?format=json
+[0mGET /dictionary?q=Something [32m200 [0m153.322 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Something?format=json
+[0mGET /dictionary?q=Something [32m200 [0m145.631 ms - -[0m
+https://owlbot.info/api/v1/dictionary/dog?format=json
+[0mGET /dictionary?q=dog [32m200 [0m178.374 ms - -[0m
+https://owlbot.info/api/v1/dictionary/thing?format=json
+[0mGET /dictionary?q=thing [32m200 [0m145.454 ms - -[0m
+https://owlbot.info/api/v1/dictionary/something?format=json
+[0mGET /dictionary?q=something [32m200 [0m144.098 ms - -[0m
+[0mGET / [32m200 [0m4.060 ms - 5877[0m
+[0mGET /stylesheet/style.css [33m404 [0m37.425 ms - 1182[0m
+[0mGET / [32m200 [0m1.166 ms - 5877[0m
+[0mGET /stylesheet/style.css [33m404 [0m47.853 ms - 1182[0m
+In getcity route
+[0mGET /getcity?q=S [32m200 [0m1.267 ms - 484[0m
+In getcity route
+[0mGET /getcity?q=S [36m304 [0m1.890 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Sa [32m200 [0m2.542 ms - 147[0m
+In getcity route
+[0mGET /getcity?q=Sai [32m200 [0m1.318 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Sain [32m200 [0m3.044 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Saint [32m200 [0m0.985 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Saint [36m304 [0m0.874 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Saint%20G [32m200 [0m0.889 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Saint%20G [36m304 [0m0.836 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Saint%20Ge [32m200 [0m0.896 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Saint%20Geo [32m200 [0m0.885 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Saint%20Geor [32m200 [0m1.498 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Saint%20Georg [32m200 [0m0.878 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Saint%20George [32m200 [0m0.880 ms - 25[0m
+In getcity route
+[0mGET /getcity?q=Saint%20George [36m304 [0m1.106 ms - -[0m
+https://owlbot.info/api/v1/dictionary/block?format=json
+[0mGET /dictionary?q=block [32m200 [0m148.788 ms - -[0m
+[0mGET / [32m200 [0m1.052 ms - 5877[0m
+[0mGET /favicon.ico [33m404 [0m22.466 ms - 1182[0m
+[0mGET / [36m304 [0m1.551 ms - -[0m
+[0mGET /stylesheet/style.css [33m404 [0m24.476 ms - 1182[0m
+[0mGET / [32m200 [0m0.752 ms - 5877[0m
+[0mGET /stylesheet/style.css [33m404 [0m7.877 ms - 1182[0m
+[0mGET / [32m200 [0m0.910 ms - 5877[0m
+[0mGET /stylesheet/style.css [33m404 [0m9.543 ms - 1182[0m
+In getcity route
+[0mGET /getcity?q=asd [32m200 [0m0.690 ms - 2[0m
+In getcity route
+[0mGET /getcity?q=asdf [32m200 [0m0.674 ms - 2[0m
+In getcity route
+[0mGET /getcity?q=asdf [36m304 [0m0.664 ms - -[0m
+In getcity route
+[0mGET /getcity?q=asdf [36m304 [0m0.684 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m13.929 ms - 1182[0m
+In getcity route
+[0mGET /getcity?q=asd [36m304 [0m0.681 ms - -[0m
+In getcity route
+[0mGET /getcity?q=as [32m200 [0m2.105 ms - 2[0m
+In getcity route
+[0mGET /getcity?q=a [32m200 [0m1.096 ms - 2[0m
+In getcity route
+[0mGET /getcity?q= [32m200 [0m0.847 ms - 5068[0m
+In getcity route
+[0mGET /getcity?q=A [32m200 [0m0.682 ms - 194[0m
+In getcity route
+[0mGET /getcity?q=A [36m304 [0m0.674 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Al [32m200 [0m0.666 ms - 75[0m
+In getcity route
+[0mGET /getcity?q=Alp [32m200 [0m1.101 ms - 19[0m
+In getcity route
+[0mGET /getcity?q=Alpi [32m200 [0m1.397 ms - 19[0m
+In getcity route
+[0mGET /getcity?q=Alpin [32m200 [0m0.968 ms - 19[0m
+In getcity route
+[0mGET /getcity?q=Alpine [32m200 [0m0.687 ms - 19[0m
+[0mGET / [32m200 [0m0.631 ms - 5877[0m
+[0mGET /favicon.ico [33m404 [0m14.771 ms - 1182[0m
+[0mGET / [32m200 [0m0.739 ms - 5877[0m
+[0mGET /stylesheet/style.css [33m404 [0m7.808 ms - 1182[0m
+[0mGET /favicon.ico [33m404 [0m6.515 ms - 1182[0m
+In getcity route
+[0mGET /getcity?q= [32m200 [0m0.800 ms - 5068[0m
+In getcity route
+[0mGET /getcity?q=A [32m200 [0m0.670 ms - 194[0m
+In getcity route
+[0mGET /getcity?q=A [36m304 [0m1.113 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Al [32m200 [0m0.931 ms - 75[0m
+In getcity route
+[0mGET /getcity?q=Alp [32m200 [0m0.659 ms - 19[0m
+In getcity route
+[0mGET /getcity?q=Alpi [32m200 [0m0.642 ms - 19[0m
+In getcity route
+[0mGET /getcity?q=Alpine [32m200 [0m1.295 ms - 19[0m
+In getcity route
+[0mGET /getcity?q=Alpine [36m304 [0m0.616 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Alpine [36m304 [0m0.672 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Food?format=json
+[0mGET /dictionary?q=Food [32m200 [0m261.078 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Corn?format=json
+[0mGET /dictionary?q=Corn [32m200 [0m135.259 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Corn?format=json
+[0mGET /dictionary?q=Corn [32m200 [0m156.223 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Corn?format=json
+[0mGET /dictionary?q=Corn [32m200 [0m144.086 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Corn?format=json
+[0mGET /dictionary?q=Corn [32m200 [0m151.616 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Corn?format=json
+[0mGET /dictionary?q=Corn [32m200 [0m156.961 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m137.190 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m108.116 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m162.958 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m159.711 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m152.870 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m136.979 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m182.330 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m145.624 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m135.890 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m148.167 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m158.330 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m193.330 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Cat?format=json
+[0mGET /dictionary?q=Cat [32m200 [0m135.591 ms - -[0m
+[0mGET /stylesheet/style.css [33m404 [0m4.869 ms - 1182[0m
+[0mGET / [32m200 [0m0.919 ms - 5877[0m
+[0mGET /favicon.ico [33m404 [0m7.733 ms - 1182[0m
+[0mGET / [32m200 [0m0.679 ms - 5877[0m
+[0mGET /stylesheet/style.css [33m404 [0m12.776 ms - 1182[0m
+[0mGET /favicon.ico [33m404 [0m8.158 ms - 1182[0m
+https://owlbot.info/api/v1/dictionary/dog?format=json
+[0mGET /dictionary?q=dog [32m200 [0m257.960 ms - -[0m
+https://owlbot.info/api/v1/dictionary/something?format=json
+[0mGET /dictionary?q=something [32m200 [0m180.373 ms - -[0m
+https://owlbot.info/api/v1/dictionary/taco?format=json
+[0mGET /dictionary?q=taco [32m200 [0m163.045 ms - -[0m
+[0mGET / [36m304 [0m0.788 ms - -[0m
+[0mGET /stylesheet/style.css [33m404 [0m8.195 ms - 1182[0m
+https://owlbot.info/api/v1/dictionary/taco?format=json
+[0mGET /dictionary?q=taco [32m200 [0m189.180 ms - -[0m
+https://owlbot.info/api/v1/dictionary/Something?format=json
+[0mGET /dictionary?q=Something [32m200 [0m158.270 ms - -[0m
+https://owlbot.info/api/v1/dictionary/taco?format=json
+[0mGET /dictionary?q=taco [32m200 [0m151.394 ms - -[0m
+[0mGET /dict.html [32m200 [0m0.533 ms - 1005[0m
+https://owlbot.info/api/v1/dictionary/dog?format=json
+[0mGET /dictionary?q=dog [32m200 [0m150.291 ms - -[0m
+https://owlbot.info/api/v1/dictionary/five?format=json
+[0mGET /dictionary?q=five [32m200 [0m154.307 ms - -[0m
+[0mGET / [36m304 [0m0.473 ms - -[0m
+[0mGET /stylesheet/style.css [33m404 [0m7.365 ms - 1182[0m
+[0mGET / [32m200 [0m0.609 ms - 5877[0m
+[0mGET /favicon.ico [33m404 [0m5.008 ms - 1182[0m
+[0mGET /favicon.ico [33m404 [0m4.710 ms - 1182[0m

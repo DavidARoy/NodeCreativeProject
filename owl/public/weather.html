@@ -1,0 +1,189 @@
+<html>
+
+<head>
+    <title>City Finder</title>
+    <link rel="stylesheet" href="stylesheet/style.css" type="text/css" />
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <style>
+        body {
+    margin: 0;
+    display: gird;
+    grid-template-areas: 
+        'head'
+        'main'
+        'header2'
+        'content2'
+        'footer';
+    background-color: lightgrey;
+}
+
+.header {
+    grid-area: header;
+	background-image: url('https://kiowacountypress.net/sites/default/files/styles/image_690x460/public/field/image/promo_660_x_440_weather_-_forecast_weather_strips_-_istock.png?itok=mMwM9hkP');
+	height: 250px;
+	padding-top: 30px;
+}
+
+.content {
+    grid-area: main;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.weatherTitle {
+    color: black;
+    text-align: center;
+    font-size: 72pt;
+    text-shadow: black 0 0 20px;
+}
+
+.header2 {
+    grid-area: header2;
+	background-image: url('http://cf.ydcdn.net/latest/images/wordfinder-background.jpg');
+   	height: 250px;
+    padding-top: 30px;
+}
+
+.content2 {
+    grid-area: content2;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+
+.footer {
+    grid-area: footer;
+    height: 25px;
+    text-align: center;
+}
+
+#weatherButton, #dictbutton {
+    border-radius: 10px;
+    background-color: #4169e1;
+    border: none;
+    padding: 5px;
+    font-size: 10pt;
+    color: white;
+}
+
+#cityField {
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+#displayCity {
+    height: 15px;
+}
+
+li {
+    text-decoration: none;
+}
+
+
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1 class="weatherTitle">Weather</h1>
+    </div>
+    <div class='left'>
+    </div>
+    <div class='content'>
+        <form>
+            Enter A Utah City: <input type="text" id="cityfield" value="">
+            <button id="weatherButton">Find</button><br> Suggestion: <span id="txtHint">Empty</span>
+        </form>
+
+        <h2>Current Weather</h2>
+        <div id="weather">No weather found</div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            $("#cityfield").keyup(function() {
+                var url = "getcity?q=" + $("#cityfield").val();
+                $.getJSON(url, function(data) {
+                        var everything;
+                        everything = "<ul>";
+                        $.each(data, function(i, item) {
+                            everything += "<li> " + data[i].city;
+                        });
+                        everything += "</ul>";
+                        $("#txtHint").html(everything);
+                    })
+                    .done(function() { console.log('getJSON request succeeded!'); })
+                    .fail(function(jqXHR, textStatus, errorThrown) {
+                        console.log('getJSON request failed! ' + textStatus);
+                        console.log("incoming " + jqXHR.responseText);
+                    })
+                    .always(function() {
+                        console.log('getJSON request ended!');
+                    });
+            });
+
+            $("#weatherButton").click(function(e) {
+                var value = $("#cityfield").val();
+                console.log(value);
+                e.preventDefault();
+
+                var myurl = "https://api.openweathermap.org/data/2.5/weather?units=imperial&appid=9b965edd44d23812a94808fe67c49bae&q=";
+                myurl += value;
+                console.log(myurl);
+                $.ajax({
+                    url: myurl,
+                    dataType: "json",
+                    success: function(parsed_json) {
+                        var location = parsed_json['name'];
+                        var weather = parsed_json['weather'][0]['main'];
+                        var temp = parsed_json['main']['temp'];
+                        var weather_icon = parsed_json['weather'][0]['icon'];
+                        var humidity = parsed_json['main']['humidity'];
+                        var temp_min = parsed_json['main']['temp_min'];
+                        var temp_max = parsed_json['main']['temp_max'];
+                        var wind_speed = parsed_json['wind']['speed'];
+                        everything = "<img src=\"http://openweathermap.org/img/w/" + weather_icon + ".png\"/>"
+                        everything += "<ul>";
+                        everything += "<li>Location: " + location;
+                        everything += "<li>Weather: " + weather + " (" + temp + "&#8457;)";
+                        everything += "<li>Low: " + temp_min + "&#8457; | High: " + temp_max + "&#8457;";
+                        everything += "<li>Humidity: " + humidity + "%";
+                        everything += "<li>Wind: " + wind_speed + " mph";
+                        everything += "</ul>";
+                        $("#weather").html(everything);
+                    }
+                });
+            });
+        });
+    </script>
+    <div class="header2">
+        <h1 class="weatherTitle">Dictionary</h1>
+    </div>
+    <div class="content2">
+        <form>
+            Enter a Word to Define: <input type="text" id="mydict" value="">
+            <button id="dictbutton">Submit</button><br> Definition: <span id="results"></span>
+        </form>
+    </div>
+    <script>
+        $("#dictbutton").click(function(event) {
+            event.preventDefault();
+            url = "dictionary?q=";
+            url += $("#mydict").val();
+            console.log(url);
+            $.getJSON(url, function(data) {
+                console.log(data);
+                var everything = "<ul>";
+                $.each(data, function(i, item) {
+                    everything += "<li>" + data[i].defenition + "</li>"
+                })
+                everything += "</ul>";
+                $("#results").html(everything);
+            })
+        })
+    </script>
+    <div class="footer">
+        <p>© 2018 Michelle Bluth</p>
+    </div>
+</body>
+
+</html>
