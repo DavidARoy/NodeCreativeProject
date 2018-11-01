@@ -6,14 +6,11 @@
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <style>
         body {
-    margin: 0;
-    display: gird;
-    grid-template-areas: 
-        'header2'
-        'content2'
-        'footer';
-}
-
+            margin: 0;
+            display: gird;
+            grid-template-areas: 'header2' 'content2' 'footer';
+        }
+      
 .dictionaryTitle {
     color: black;
     text-align: center;
@@ -21,40 +18,39 @@
     text-shadow: black 0 0 20px;
 }
 
-.header2 {
-    grid-area: header2;
-	background-image: url('http://cf.ydcdn.net/latest/images/wordfinder-background.jpg');
-   	height: 40vh;
-    padding-top: 50px;
-}
 
-.content2 {
-    grid-area: content2;
-    height: 50vh;
-    margin-left: 150px;
-    margin-top: 15px;
-}
+        .header2 {
+            grid-area: header2;
+            background-image: url('http://cf.ydcdn.net/latest/images/wordfinder-background.jpg');
+            height: 40vh;
+            padding-top: 50px;
+        }
 
-.footer {
-    grid-area: footer;
-    height: 5vh;
-    text-align: center;
-}
+        .content2 {
+            grid-area: content2;
+            height: 50vh;
+            margin-left: 150px;
+            margin-top: 15px;
+        }
 
-#dictbutton {
-    border-radius: 10px;
-    background-color: #4169e1;
-    border: none;
-    padding: 5px;
-    font-size: 10pt;
-    color: white;
-}
+        .footer {
+            grid-area: footer;
+            height: 5vh;
+            text-align: center;
+        }
 
-li {
-    text-decoration: none;
-}
+        #dictbutton {
+            border-radius: 10px;
+            background-color: #4169e1;
+            border: none;
+            padding: 5px;
+            font-size: 10pt;
+            color: white;
+        }
 
-
+        li {
+            text-decoration: none;
+        }
     </style>
 </head>
 
@@ -83,41 +79,16 @@ li {
                 everything += "</ul>";
                 $("#randomResults").html(everything);
             })
-            url = "word";
-            console.log(url);
-            $.getJSON(url, function(data) {
-                console.log(data);
-                var everything = "<ul>";
-                $.each(data, function(i, item) {
-                    everything += "<li>" + data + "</li>"
-                })
-                everything += "</ul>";
-                $("#word").html(everything);
-            })
         })
-         $("#wordButton").click(function(event) {
+        $("#wordButton").click(function(event) {
             event.preventDefault();
-            var url = "randomWord?q=";
-            url += "unknown";
+            var url = "word";
             console.log(url);
             $.getJSON(url, function(data) {
                 console.log(data);
-                var everything = "<ul>";
-                $.each(data, function(i, item) {
-                    everything += "<li>" + data[i].defenition + "</li>"
-                })
-                everything += "</ul>";
-                $("#randomResults").html(everything);
-            })
-            url = "word";
-            console.log(url);
-            $.getJSON(url, function(data) {
-                console.log(data);
-                var everything = "<ul>";
-                $.each(data, function(i, item) {
-                    everything += "<li>" + data + "</li>"
-                })
-                everything += "</ul>";
+                var everything = "<h2>";
+                everything += data;
+                everything += "</h2>";
                 $("#word").html(everything);
             })
         })
