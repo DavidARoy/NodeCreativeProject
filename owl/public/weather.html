@@ -84,77 +84,6 @@ li {
 </head>
 
 <body>
-    <div class="header">
-        <h1 class="weatherTitle">Weather</h1>
-    </div>
-    <div class='left'>
-    </div>
-    <div class='content'>
-        <form>
-            Enter A Utah City: <input type="text" id="cityfield" value="">
-            <button id="weatherButton">Find</button><br> Suggestion: <span id="txtHint">Empty</span>
-        </form>
-
-        <h2>Current Weather</h2>
-        <div id="weather">No weather found</div>
-    </div>
-    <script>
-        $(document).ready(function() {
-            $("#cityfield").keyup(function() {
-                var url = "getcity?q=" + $("#cityfield").val();
-                $.getJSON(url, function(data) {
-                        var everything;
-                        everything = "<ul>";
-                        $.each(data, function(i, item) {
-                            everything += "<li> " + data[i].city;
-                        });
-                        everything += "</ul>";
-                        $("#txtHint").html(everything);
-                    })
-                    .done(function() { console.log('getJSON request succeeded!'); })
-                    .fail(function(jqXHR, textStatus, errorThrown) {
-                        console.log('getJSON request failed! ' + textStatus);
-                        console.log("incoming " + jqXHR.responseText);
-                    })
-                    .always(function() {
-                        console.log('getJSON request ended!');
-                    });
-            });
-
-            $("#weatherButton").click(function(e) {
-                var value = $("#cityfield").val();
-                console.log(value);
-                e.preventDefault();
-
-                var myurl = "https://api.openweathermap.org/data/2.5/weather?units=imperial&appid=9b965edd44d23812a94808fe67c49bae&q=";
-                myurl += value;
-                console.log(myurl);
-                $.ajax({
-                    url: myurl,
-                    dataType: "json",
-                    success: function(parsed_json) {
-                        var location = parsed_json['name'];
-                        var weather = parsed_json['weather'][0]['main'];
-                        var temp = parsed_json['main']['temp'];
-                        var weather_icon = parsed_json['weather'][0]['icon'];
-                        var humidity = parsed_json['main']['humidity'];
-                        var temp_min = parsed_json['main']['temp_min'];
-                        var temp_max = parsed_json['main']['temp_max'];
-                        var wind_speed = parsed_json['wind']['speed'];
-                        everything = "<img src=\"http://openweathermap.org/img/w/" + weather_icon + ".png\"/>"
-                        everything += "<ul>";
-                        everything += "<li>Location: " + location;
-                        everything += "<li>Weather: " + weather + " (" + temp + "&#8457;)";
-                        everything += "<li>Low: " + temp_min + "&#8457; | High: " + temp_max + "&#8457;";
-                        everything += "<li>Humidity: " + humidity + "%";
-                        everything += "<li>Wind: " + wind_speed + " mph";
-                        everything += "</ul>";
-                        $("#weather").html(everything);
-                    }
-                });
-            });
-        });
-    </script>
     <div class="header2">
         <h1 class="weatherTitle">Dictionary</h1>
     </div>
@@ -182,7 +111,7 @@ li {
         })
     </script>
     <div class="footer">
-        <p>© 2018 Michelle Bluth</p>
+        <p>© 2018 Michelle Bluth and David Roy</p>
     </div>
 </body>
 
