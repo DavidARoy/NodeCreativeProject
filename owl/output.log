@@ -1,200 +1,2316 @@
 nohup: ignoring input
 Runnin on 4200
-[0mGET /weather.html [32m200 [0m7.945 ms - 5877[0m
-[0mGET /stylesheet/style.css [33m404 [0m303.718 ms - 1182[0m
-In getcity route
-[0mGET /getcity?q=B [32m200 [0m3.461 ms - 312[0m
-In getcity route
-[0mGET /getcity?q=B [36m304 [0m2.672 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Bou [32m200 [0m1.143 ms - 41[0m
-In getcity route
-[0mGET /getcity?q=Bou [36m304 [0m22.626 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Boul [32m200 [0m2.433 ms - 20[0m
-In getcity route
-[0mGET /getcity?q=Bould [32m200 [0m1.532 ms - 20[0m
-In getcity route
-[0mGET /getcity?q=Boulder [32m200 [0m1.089 ms - 20[0m
-In getcity route
-[0mGET /getcity?q=Boulder [36m304 [0m1.169 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Boulder [36m304 [0m0.683 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Something?format=json
-[0mGET /dictionary?q=Something [32m200 [0m231.888 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Something?format=json
-[0mGET /dictionary?q=Something [32m200 [0m153.322 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Something?format=json
-[0mGET /dictionary?q=Something [32m200 [0m145.631 ms - -[0m
-https://owlbot.info/api/v1/dictionary/dog?format=json
-[0mGET /dictionary?q=dog [32m200 [0m178.374 ms - -[0m
-https://owlbot.info/api/v1/dictionary/thing?format=json
-[0mGET /dictionary?q=thing [32m200 [0m145.454 ms - -[0m
-https://owlbot.info/api/v1/dictionary/something?format=json
-[0mGET /dictionary?q=something [32m200 [0m144.098 ms - -[0m
-[0mGET / [32m200 [0m4.060 ms - 5877[0m
-[0mGET /stylesheet/style.css [33m404 [0m37.425 ms - 1182[0m
-[0mGET / [32m200 [0m1.166 ms - 5877[0m
-[0mGET /stylesheet/style.css [33m404 [0m47.853 ms - 1182[0m
-In getcity route
-[0mGET /getcity?q=S [32m200 [0m1.267 ms - 484[0m
-In getcity route
-[0mGET /getcity?q=S [36m304 [0m1.890 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Sa [32m200 [0m2.542 ms - 147[0m
-In getcity route
-[0mGET /getcity?q=Sai [32m200 [0m1.318 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Sain [32m200 [0m3.044 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Saint [32m200 [0m0.985 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Saint [36m304 [0m0.874 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Saint%20G [32m200 [0m0.889 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Saint%20G [36m304 [0m0.836 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Saint%20Ge [32m200 [0m0.896 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Saint%20Geo [32m200 [0m0.885 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Saint%20Geor [32m200 [0m1.498 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Saint%20Georg [32m200 [0m0.878 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Saint%20George [32m200 [0m0.880 ms - 25[0m
-In getcity route
-[0mGET /getcity?q=Saint%20George [36m304 [0m1.106 ms - -[0m
-https://owlbot.info/api/v1/dictionary/block?format=json
-[0mGET /dictionary?q=block [32m200 [0m148.788 ms - -[0m
-[0mGET / [32m200 [0m1.052 ms - 5877[0m
-[0mGET /favicon.ico [33m404 [0m22.466 ms - 1182[0m
-[0mGET / [36m304 [0m1.551 ms - -[0m
-[0mGET /stylesheet/style.css [33m404 [0m24.476 ms - 1182[0m
-[0mGET / [32m200 [0m0.752 ms - 5877[0m
-[0mGET /stylesheet/style.css [33m404 [0m7.877 ms - 1182[0m
-[0mGET / [32m200 [0m0.910 ms - 5877[0m
-[0mGET /stylesheet/style.css [33m404 [0m9.543 ms - 1182[0m
-In getcity route
-[0mGET /getcity?q=asd [32m200 [0m0.690 ms - 2[0m
-In getcity route
-[0mGET /getcity?q=asdf [32m200 [0m0.674 ms - 2[0m
-In getcity route
-[0mGET /getcity?q=asdf [36m304 [0m0.664 ms - -[0m
-In getcity route
-[0mGET /getcity?q=asdf [36m304 [0m0.684 ms - -[0m
-[0mGET /favicon.ico [33m404 [0m13.929 ms - 1182[0m
-In getcity route
-[0mGET /getcity?q=asd [36m304 [0m0.681 ms - -[0m
-In getcity route
-[0mGET /getcity?q=as [32m200 [0m2.105 ms - 2[0m
-In getcity route
-[0mGET /getcity?q=a [32m200 [0m1.096 ms - 2[0m
-In getcity route
-[0mGET /getcity?q= [32m200 [0m0.847 ms - 5068[0m
-In getcity route
-[0mGET /getcity?q=A [32m200 [0m0.682 ms - 194[0m
-In getcity route
-[0mGET /getcity?q=A [36m304 [0m0.674 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Al [32m200 [0m0.666 ms - 75[0m
-In getcity route
-[0mGET /getcity?q=Alp [32m200 [0m1.101 ms - 19[0m
-In getcity route
-[0mGET /getcity?q=Alpi [32m200 [0m1.397 ms - 19[0m
-In getcity route
-[0mGET /getcity?q=Alpin [32m200 [0m0.968 ms - 19[0m
-In getcity route
-[0mGET /getcity?q=Alpine [32m200 [0m0.687 ms - 19[0m
-[0mGET / [32m200 [0m0.631 ms - 5877[0m
-[0mGET /favicon.ico [33m404 [0m14.771 ms - 1182[0m
-[0mGET / [32m200 [0m0.739 ms - 5877[0m
-[0mGET /stylesheet/style.css [33m404 [0m7.808 ms - 1182[0m
-[0mGET /favicon.ico [33m404 [0m6.515 ms - 1182[0m
-In getcity route
-[0mGET /getcity?q= [32m200 [0m0.800 ms - 5068[0m
-In getcity route
-[0mGET /getcity?q=A [32m200 [0m0.670 ms - 194[0m
-In getcity route
-[0mGET /getcity?q=A [36m304 [0m1.113 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Al [32m200 [0m0.931 ms - 75[0m
-In getcity route
-[0mGET /getcity?q=Alp [32m200 [0m0.659 ms - 19[0m
-In getcity route
-[0mGET /getcity?q=Alpi [32m200 [0m0.642 ms - 19[0m
-In getcity route
-[0mGET /getcity?q=Alpine [32m200 [0m1.295 ms - 19[0m
-In getcity route
-[0mGET /getcity?q=Alpine [36m304 [0m0.616 ms - -[0m
-In getcity route
-[0mGET /getcity?q=Alpine [36m304 [0m0.672 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Food?format=json
-[0mGET /dictionary?q=Food [32m200 [0m261.078 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Corn?format=json
-[0mGET /dictionary?q=Corn [32m200 [0m135.259 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Corn?format=json
-[0mGET /dictionary?q=Corn [32m200 [0m156.223 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Corn?format=json
-[0mGET /dictionary?q=Corn [32m200 [0m144.086 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Corn?format=json
-[0mGET /dictionary?q=Corn [32m200 [0m151.616 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Corn?format=json
-[0mGET /dictionary?q=Corn [32m200 [0m156.961 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m137.190 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m108.116 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m162.958 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m159.711 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m152.870 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m136.979 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m182.330 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m145.624 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m135.890 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m148.167 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m158.330 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m193.330 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Cat?format=json
-[0mGET /dictionary?q=Cat [32m200 [0m135.591 ms - -[0m
-[0mGET /stylesheet/style.css [33m404 [0m4.869 ms - 1182[0m
-[0mGET / [32m200 [0m0.919 ms - 5877[0m
-[0mGET /favicon.ico [33m404 [0m7.733 ms - 1182[0m
-[0mGET / [32m200 [0m0.679 ms - 5877[0m
-[0mGET /stylesheet/style.css [33m404 [0m12.776 ms - 1182[0m
-[0mGET /favicon.ico [33m404 [0m8.158 ms - 1182[0m
-https://owlbot.info/api/v1/dictionary/dog?format=json
-[0mGET /dictionary?q=dog [32m200 [0m257.960 ms - -[0m
-https://owlbot.info/api/v1/dictionary/something?format=json
-[0mGET /dictionary?q=something [32m200 [0m180.373 ms - -[0m
-https://owlbot.info/api/v1/dictionary/taco?format=json
-[0mGET /dictionary?q=taco [32m200 [0m163.045 ms - -[0m
-[0mGET / [36m304 [0m0.788 ms - -[0m
-[0mGET /stylesheet/style.css [33m404 [0m8.195 ms - 1182[0m
-https://owlbot.info/api/v1/dictionary/taco?format=json
-[0mGET /dictionary?q=taco [32m200 [0m189.180 ms - -[0m
-https://owlbot.info/api/v1/dictionary/Something?format=json
-[0mGET /dictionary?q=Something [32m200 [0m158.270 ms - -[0m
-https://owlbot.info/api/v1/dictionary/taco?format=json
-[0mGET /dictionary?q=taco [32m200 [0m151.394 ms - -[0m
-[0mGET /dict.html [32m200 [0m0.533 ms - 1005[0m
-https://owlbot.info/api/v1/dictionary/dog?format=json
-[0mGET /dictionary?q=dog [32m200 [0m150.291 ms - -[0m
-https://owlbot.info/api/v1/dictionary/five?format=json
-[0mGET /dictionary?q=five [32m200 [0m154.307 ms - -[0m
-[0mGET / [36m304 [0m0.473 ms - -[0m
-[0mGET /stylesheet/style.css [33m404 [0m7.365 ms - 1182[0m
-[0mGET / [32m200 [0m0.609 ms - 5877[0m
-[0mGET /favicon.ico [33m404 [0m5.008 ms - 1182[0m
-[0mGET /favicon.ico [33m404 [0m4.710 ms - 1182[0m
+[0mGET / [36m304 [0m8.987 ms - -[0m
+[0mGET /word [32m200 [0m13.046 ms - 7[0m
+[0mGET /word [36m304 [0m1.833 ms - -[0m
+[0mGET /word [36m304 [0m0.631 ms - -[0m
+[0mGET /word [36m304 [0m1.110 ms - -[0m
+[0mGET /word [36m304 [0m6.207 ms - -[0m
+[0mGET /word [36m304 [0m1.102 ms - -[0m
+[0mGET /word [36m304 [0m0.569 ms - -[0m
+[0mGET /word [36m304 [0m0.561 ms - -[0m
+[0mGET /word [36m304 [0m0.553 ms - -[0m
+[0mGET /word [36m304 [0m0.659 ms - -[0m
+[0mGET /word [36m304 [0m1.330 ms - -[0m
+[0mGET /word [36m304 [0m1.018 ms - -[0m
+[0mGET /word [36m304 [0m1.139 ms - -[0m
+[0mGET /word [36m304 [0m1.146 ms - -[0m
+[0mGET /word [36m304 [0m0.736 ms - -[0m
+[0mGET /word [36m304 [0m0.555 ms - -[0m
+[0mGET /word [36m304 [0m0.548 ms - -[0m
+[0mGET /word [36m304 [0m1.433 ms - -[0m
+[0mGET /word [36m304 [0m10.927 ms - -[0m
+[0mGET /word [36m304 [0m1.377 ms - -[0m
+[0mGET /word [36m304 [0m1.087 ms - -[0m
+[0mGET /word [36m304 [0m0.924 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+31
+frondeur
+https://owlbot.info/api/v1/dictionary/frondeur?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.612 ms - 10[0m
+[0mGET /word [36m304 [0m0.593 ms - -[0m
+[0mGET /randomWord?q=unknown [32m200 [0m313.839 ms - -[0m
+[0mGET /word [36m304 [0m0.748 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+11
+super
+https://owlbot.info/api/v1/dictionary/super?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m1.004 ms - 7[0m
+[0mGET /randomWord?q=unknown [32m200 [0m171.472 ms - -[0m
+[0mGET /word [36m304 [0m0.799 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+46
+mimsy
+https://owlbot.info/api/v1/dictionary/mimsy?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.641 ms - 7[0m
+[0mGET /randomWord?q=unknown [32m200 [0m171.932 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+50
+nainsook
+https://owlbot.info/api/v1/dictionary/nainsook?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.545 ms - 10[0m
+[0mGET /randomWord?q=unknown [32m200 [0m155.663 ms - -[0m
+[0mGET /word [36m304 [0m0.557 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+1
+two
+https://owlbot.info/api/v1/dictionary/two?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.599 ms - 5[0m
+[0mGET /randomWord?q=unknown [32m200 [0m197.678 ms - -[0m
+[0mGET /word [36m304 [0m0.554 ms - -[0m
+[0mGET /word [36m304 [0m0.566 ms - -[0m
+[0mGET / [32m200 [0m2.862 ms - 4479[0m
+[0mGET /favicon.ico [33m404 [0m315.617 ms - 1322[0m
+[0mGET /word [36m304 [0m0.594 ms - -[0m
+https://owlbot.info/api/v1/dictionary/draff?format=json
+[0mGET /word [32m200 [0m0.962 ms - 5[0m
+[0mGET /dictionary?q=draff [32m200 [0m174.786 ms - -[0m
+[0mGET /word [36m304 [0m7.244 ms - -[0m
+[0mGET /word [36m304 [0m0.805 ms - -[0m
+[0mGET /word [36m304 [0m0.785 ms - -[0m
+[0mGET /word [36m304 [0m0.725 ms - -[0m
+[0mGET /word [36m304 [0m1.141 ms - -[0m
+[0mGET /word [36m304 [0m0.550 ms - -[0m
+[0mGET /word [36m304 [0m0.576 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+13
+lollygag
+https://owlbot.info/api/v1/dictionary/lollygag?format=json
+[0mGET /word [36m304 [0m3.168 ms - -[0m
+Replaced!
+Replaced!
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+47
+misogamy
+https://owlbot.info/api/v1/dictionary/misogamy?format=json
+Replaced!
+Replaced!
+[0mGET /randomWord?q=unknown [32m200 [0m154.886 ms - -[0m
+[0mGET /word [32m200 [0m1.459 ms - 10[0m
+[0mGET /word [32m200 [0m0.519 ms - 10[0m
+[0mGET /randomWord?q=unknown [32m200 [0m149.272 ms - -[0m
+[0mGET /word [36m304 [0m0.580 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+26
+etui
+https://owlbot.info/api/v1/dictionary/etui?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m1.284 ms - 6[0m
+[0mGET /randomWord?q=unknown [32m200 [0m124.111 ms - -[0m
+[0mGET /word [32m200 [0m3.734 ms - 6[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+27
+erf
+https://owlbot.info/api/v1/dictionary/erf?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.526 ms - 5[0m
+[0mGET /word [36m304 [0m0.560 ms - -[0m
+[0mGET /randomWord?q=unknown [32m200 [0m158.012 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+49
+mudlark
+https://owlbot.info/api/v1/dictionary/mudlark?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m1.140 ms - 9[0m
+[0mGET /word [32m200 [0m0.851 ms - 9[0m
+[0mGET /randomWord?q=unknown [32m200 [0m158.863 ms - -[0m
+[0mGET /word [36m304 [0m0.582 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+48
+momism
+https://owlbot.info/api/v1/dictionary/momism?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.555 ms - 8[0m
+[0mGET /randomWord?q=unknown [32m200 [0m182.360 ms - -[0m
+[0mGET /word [32m200 [0m0.533 ms - 8[0m
+[0mGET /word [36m304 [0m0.579 ms - -[0m
+[0mGET /word [36m304 [0m0.547 ms - -[0m
+[0mGET /word [36m304 [0m0.546 ms - -[0m
+[0mGET /word [36m304 [0m0.554 ms - -[0m
+[0mGET /word [36m304 [0m0.562 ms - -[0m
+[0mGET /word [36m304 [0m0.580 ms - -[0m
+[0mGET /word [36m304 [0m0.725 ms - -[0m
+[0mGET /word [36m304 [0m0.587 ms - -[0m
+[0mGET /word [36m304 [0m0.685 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+12
+acquiesce
+https://owlbot.info/api/v1/dictionary/acquiesce?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m1.317 ms - 11[0m
+[0mGET /randomWord?q=unknown [32m200 [0m123.825 ms - -[0m
+[0mGET /word [36m304 [0m0.926 ms - -[0m
+[0mGET /word [32m200 [0m0.732 ms - 11[0m
+[0mGET /word [36m304 [0m0.578 ms - -[0m
+[0mGET /word [36m304 [0m0.610 ms - -[0m
+[0mGET /word [36m304 [0m0.656 ms - -[0m
+[0mGET /word [36m304 [0m0.628 ms - -[0m
+[0mGET /word [36m304 [0m13.319 ms - -[0m
+[0mGET /word [36m304 [0m0.958 ms - -[0m
+[0mGET /word [36m304 [0m0.771 ms - -[0m
+[0mGET /word [36m304 [0m0.962 ms - -[0m
+[0mGET /word [36m304 [0m0.545 ms - -[0m
+[0mGET /word [36m304 [0m0.559 ms - -[0m
+[0mGET /word [36m304 [0m0.652 ms - -[0m
+[0mGET / [32m200 [0m1.467 ms - 4479[0m
+[0mGET /word [36m304 [0m0.545 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m37.926 ms - 1322[0m
+[0mGET /word [36m304 [0m21.445 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+2
+three
+https://owlbot.info/api/v1/dictionary/three?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.879 ms - 7[0m
+[0mGET /word [32m200 [0m0.473 ms - 7[0m
+[0mGET /randomWord?q=unknown [32m200 [0m285.888 ms - -[0m
+[0mGET /word [36m304 [0m0.696 ms - -[0m
+[0mGET /word [36m304 [0m0.664 ms - -[0m
+[0mGET /word [36m304 [0m0.571 ms - -[0m
+[0mGET /word [36m304 [0m0.579 ms - -[0m
+[0mGET /word [36m304 [0m1.197 ms - -[0m
+[0mGET /word [36m304 [0m0.569 ms - -[0m
+[0mGET /word [36m304 [0m0.555 ms - -[0m
+[0mGET /word [36m304 [0m0.587 ms - -[0m
+[0mGET /word [36m304 [0m0.546 ms - -[0m
+[0mGET /word [36m304 [0m0.631 ms - -[0m
+[0mGET /word [36m304 [0m1.552 ms - -[0m
+[0mGET /word [36m304 [0m0.563 ms - -[0m
+[0mGET /word [36m304 [0m0.598 ms - -[0m
+[0mGET /word [36m304 [0m2.093 ms - -[0m
+[0mGET /word [36m304 [0m0.535 ms - -[0m
+[0mGET /word [36m304 [0m0.910 ms - -[0m
+[0mGET /word [36m304 [0m1.378 ms - -[0m
+[0mGET /word [36m304 [0m0.531 ms - -[0m
+[0mGET /word [36m304 [0m0.542 ms - -[0m
+[0mGET /word [36m304 [0m0.578 ms - -[0m
+[0mGET /word [36m304 [0m0.511 ms - -[0m
+[0mGET /word [36m304 [0m0.598 ms - -[0m
+[0mGET /word [36m304 [0m0.549 ms - -[0m
+[0mGET /word [36m304 [0m0.593 ms - -[0m
+[0mGET /word [36m304 [0m0.594 ms - -[0m
+[0mGET /word [36m304 [0m1.970 ms - -[0m
+[0mGET /word [36m304 [0m1.245 ms - -[0m
+[0mGET /word [36m304 [0m1.608 ms - -[0m
+[0mGET /word [36m304 [0m0.531 ms - -[0m
+[0mGET /word [36m304 [0m0.576 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+41
+keek
+https://owlbot.info/api/v1/dictionary/keek?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.541 ms - 6[0m
+[0mGET /randomWord?q=unknown [32m200 [0m188.597 ms - -[0m
+[0mGET /word [32m200 [0m1.067 ms - 6[0m
+[0mGET /word [36m304 [0m0.592 ms - -[0m
+[0mGET /word [36m304 [0m0.565 ms - -[0m
+[0mGET /word [36m304 [0m0.564 ms - -[0m
+[0mGET /word [36m304 [0m1.646 ms - -[0m
+[0mGET /word [36m304 [0m1.007 ms - -[0m
+[0mGET /word [36m304 [0m0.548 ms - -[0m
+[0mGET /word [36m304 [0m1.119 ms - -[0m
+[0mGET /word [36m304 [0m0.553 ms - -[0m
+[0mGET /word [36m304 [0m1.342 ms - -[0m
+[0mGET /word [36m304 [0m0.638 ms - -[0m
+[0mGET /word [36m304 [0m0.584 ms - -[0m
+[0mGET /word [36m304 [0m0.569 ms - -[0m
+[0mGET /word [36m304 [0m0.891 ms - -[0m
+[0mGET /word [36m304 [0m0.553 ms - -[0m
+[0mGET /word [36m304 [0m0.565 ms - -[0m
+[0mGET /word [36m304 [0m5.836 ms - -[0m
+[0mGET /word [36m304 [0m0.569 ms - -[0m
+[0mGET /word [36m304 [0m1.361 ms - -[0m
+[0mGET /word [36m304 [0m0.884 ms - -[0m
+[0mGET /word [36m304 [0m1.037 ms - -[0m
+[0mGET /word [36m304 [0m0.578 ms - -[0m
+[0mGET /word [36m304 [0m0.831 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+48
+momism
+https://owlbot.info/api/v1/dictionary/momism?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m1.581 ms - 8[0m
+[0mGET /word [32m200 [0m0.519 ms - 8[0m
+[0mGET /randomWord?q=unknown [32m200 [0m169.961 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+23
+dight
+https://owlbot.info/api/v1/dictionary/dight?format=json
+[0mGET /word [32m200 [0m4.684 ms - 2[0m
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.522 ms - 7[0m
+[0mGET /randomWord?q=unknown [32m200 [0m173.215 ms - -[0m
+[0mGET /word [32m200 [0m0.563 ms - 7[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+19
+chad
+https://owlbot.info/api/v1/dictionary/chad?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.505 ms - 6[0m
+[0mGET /randomWord?q=unknown [32m200 [0m176.993 ms - -[0m
+[0mGET /word [36m304 [0m0.555 ms - -[0m
+[0mGET /word [32m200 [0m0.516 ms - 6[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+28
+erubescent
+https://owlbot.info/api/v1/dictionary/erubescent?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.524 ms - 12[0m
+[0mGET /word [36m304 [0m0.534 ms - -[0m
+[0mGET /randomWord?q=unknown [32m200 [0m159.178 ms - -[0m
+[0mGET /word [32m200 [0m0.538 ms - 12[0m
+[0mGET /word [36m304 [0m1.275 ms - -[0m
+[0mGET /word [36m304 [0m0.566 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+40
+jungli
+https://owlbot.info/api/v1/dictionary/jungli?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.496 ms - 8[0m
+[0mGET /randomWord?q=unknown [32m200 [0m152.891 ms - -[0m
+[0mGET /word [36m304 [0m0.534 ms - -[0m
+[0mGET /word [32m200 [0m0.531 ms - 8[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+43
+mallam
+https://owlbot.info/api/v1/dictionary/mallam?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.484 ms - 8[0m
+[0mGET /randomWord?q=unknown [32m200 [0m116.880 ms - -[0m
+[0mGET /word [36m304 [0m0.528 ms - -[0m
+[0mGET /word [32m200 [0m0.512 ms - 8[0m
+[0mGET /word [36m304 [0m0.543 ms - -[0m
+[0mGET /word [36m304 [0m0.522 ms - -[0m
+[0mGET /word [36m304 [0m0.565 ms - -[0m
+[0mGET /word [36m304 [0m0.532 ms - -[0m
+[0mGET /word [36m304 [0m0.515 ms - -[0m
+[0mGET /word [36m304 [0m0.516 ms - -[0m
+[0mGET /word [36m304 [0m0.556 ms - -[0m
+[0mGET /word [36m304 [0m0.547 ms - -[0m
+[0mGET /word [36m304 [0m0.526 ms - -[0m
+[0mGET /word [36m304 [0m0.605 ms - -[0m
+[0mGET /word [36m304 [0m0.552 ms - -[0m
+[0mGET /word [36m304 [0m0.517 ms - -[0m
+[0mGET /word [36m304 [0m0.513 ms - -[0m
+[0mGET /word [36m304 [0m0.617 ms - -[0m
+[0mGET /word [36m304 [0m0.558 ms - -[0m
+[0mGET /word [36m304 [0m0.976 ms - -[0m
+[0mGET /word [36m304 [0m0.536 ms - -[0m
+[0mGET /word [36m304 [0m0.490 ms - -[0m
+[0mGET /word [36m304 [0m0.536 ms - -[0m
+[0mGET /word [36m304 [0m0.554 ms - -[0m
+[0mGET /word [36m304 [0m0.533 ms - -[0m
+[0mGET /word [36m304 [0m3.877 ms - -[0m
+[0mGET /word [36m304 [0m0.527 ms - -[0m
+[0mGET /word [36m304 [0m0.621 ms - -[0m
+[0mGET /word [36m304 [0m0.583 ms - -[0m
+[0mGET /word [36m304 [0m0.539 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+24
+draff
+https://owlbot.info/api/v1/dictionary/draff?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.470 ms - 7[0m
+[0mGET /randomWord?q=unknown [32m200 [0m175.028 ms - -[0m
+[0mGET /word [32m200 [0m0.493 ms - 7[0m
+[0mGET /word [36m304 [0m0.522 ms - -[0m
+[0mGET /word [36m304 [0m0.545 ms - -[0m
+[0mGET /word [36m304 [0m0.563 ms - -[0m
+[0mGET /word [36m304 [0m0.513 ms - -[0m
+[0mGET /word [36m304 [0m0.565 ms - -[0m
+[0mGET /word [36m304 [0m0.879 ms - -[0m
+[0mGET /word [36m304 [0m0.554 ms - -[0m
+[0mGET /word [36m304 [0m0.565 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+1
+two
+https://owlbot.info/api/v1/dictionary/two?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.520 ms - 5[0m
+[0mGET /word [36m304 [0m0.536 ms - -[0m
+[0mGET /randomWord?q=unknown [32m200 [0m169.604 ms - -[0m
+[0mGET /word [32m200 [0m0.525 ms - 5[0m
+[0mGET /word [36m304 [0m0.559 ms - -[0m
+[0mGET /word [36m304 [0m0.520 ms - -[0m
+[0mGET /word [36m304 [0m0.939 ms - -[0m
+[0mGET /word [36m304 [0m0.512 ms - -[0m
+[0mGET /word [36m304 [0m0.527 ms - -[0m
+[0mGET /word [36m304 [0m0.509 ms - -[0m
+[0mGET /word [36m304 [0m0.517 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+23
+dight
+https://owlbot.info/api/v1/dictionary/dight?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.510 ms - 7[0m
+[0mGET /randomWord?q=unknown [32m200 [0m179.184 ms - -[0m
+[0mGET /word [36m304 [0m0.540 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+30
+flocculent
+https://owlbot.info/api/v1/dictionary/flocculent?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.570 ms - 12[0m
+[0mGET /word [32m200 [0m0.497 ms - 12[0m
+[0mGET /word [36m304 [0m0.528 ms - -[0m
+[0mGET /randomWord?q=unknown [32m200 [0m154.163 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+54
+patulous
+https://owlbot.info/api/v1/dictionary/patulous?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.538 ms - 10[0m
+[0mGET /randomWord?q=unknown [32m200 [0m144.791 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+52
+ogdoad
+https://owlbot.info/api/v1/dictionary/ogdoad?format=json
+Replaced!
+Replaced!
+[0mGET /randomWord?q=unknown [32m200 [0m159.708 ms - -[0m
+[0mGET /word [32m200 [0m0.508 ms - 8[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+25
+effable
+https://owlbot.info/api/v1/dictionary/effable?format=json
+Replaced!
+Replaced!
+[0mGET /randomWord?q=unknown [32m200 [0m149.739 ms - -[0m
+[0mGET /word [32m200 [0m0.525 ms - 9[0m
+[0mGET /word [32m200 [0m0.520 ms - 9[0m
+[0mGET /word [36m304 [0m0.523 ms - -[0m
+[0mGET /word [36m304 [0m0.557 ms - -[0m
+[0mGET /word [36m304 [0m0.564 ms - -[0m
+[0mGET /word [36m304 [0m0.543 ms - -[0m
+[0mGET /word [36m304 [0m0.534 ms - -[0m
+[0mGET /word [36m304 [0m0.540 ms - -[0m
+[0mGET /word [36m304 [0m0.521 ms - -[0m
+[0mGET /word [36m304 [0m0.582 ms - -[0m
+[0mGET /word [36m304 [0m0.595 ms - -[0m
+[0mGET /word [36m304 [0m0.530 ms - -[0m
+[0mGET /word [36m304 [0m1.143 ms - -[0m
+[0mGET /word [36m304 [0m0.581 ms - -[0m
+[0mGET /word [36m304 [0m0.553 ms - -[0m
+[0mGET /word [36m304 [0m0.563 ms - -[0m
+[0mGET /word [36m304 [0m0.550 ms - -[0m
+[0mGET /word [36m304 [0m0.575 ms - -[0m
+[0mGET /word [36m304 [0m0.518 ms - -[0m
+[0mGET /word [36m304 [0m0.532 ms - -[0m
+[0mGET /word [36m304 [0m0.625 ms - -[0m
+[0mGET /word [36m304 [0m0.546 ms - -[0m
+[0mGET /word [36m304 [0m0.544 ms - -[0m
+[0mGET /word [36m304 [0m0.542 ms - -[0m
+[0mGET /word [36m304 [0m1.194 ms - -[0m
+[0mGET /word [36m304 [0m0.573 ms - -[0m
+[0mGET /word [36m304 [0m0.558 ms - -[0m
+[0mGET /word [36m304 [0m0.525 ms - -[0m
+[0mGET /word [36m304 [0m0.531 ms - -[0m
+[0mGET /word [36m304 [0m0.550 ms - -[0m
+[0mGET /word [36m304 [0m0.522 ms - -[0m
+[0mGET /word [36m304 [0m0.542 ms - -[0m
+[0mGET /word [36m304 [0m0.548 ms - -[0m
+[0mGET /word [36m304 [0m1.085 ms - -[0m
+[0mGET /word [36m304 [0m0.510 ms - -[0m
+[0mGET /word [36m304 [0m0.555 ms - -[0m
+[0mGET /word [36m304 [0m0.550 ms - -[0m
+[0mGET /word [36m304 [0m0.539 ms - -[0m
+[0mGET /word [36m304 [0m0.542 ms - -[0m
+[0mGET /word [36m304 [0m0.539 ms - -[0m
+[0mGET /word [36m304 [0m0.525 ms - -[0m
+[0mGET /word [36m304 [0m0.554 ms - -[0m
+[0mGET /word [36m304 [0m0.525 ms - -[0m
+[0mGET /word [36m304 [0m0.533 ms - -[0m
+[0mGET /word [36m304 [0m0.535 ms - -[0m
+[0mGET /word [36m304 [0m0.532 ms - -[0m
+[0mGET /word [36m304 [0m0.576 ms - -[0m
+[0mGET /word [36m304 [0m0.512 ms - -[0m
+[0mGET /word [36m304 [0m0.516 ms - -[0m
+[0mGET /word [36m304 [0m0.519 ms - -[0m
+[0mGET /word [36m304 [0m0.582 ms - -[0m
+[0mGET /word [36m304 [0m0.575 ms - -[0m
+[0mGET /word [36m304 [0m0.532 ms - -[0m
+[0mGET /word [36m304 [0m0.528 ms - -[0m
+[0mGET /word [36m304 [0m0.526 ms - -[0m
+[0mGET /word [36m304 [0m0.571 ms - -[0m
+[0mGET /word [36m304 [0m0.523 ms - -[0m
+[0mGET /word [36m304 [0m0.505 ms - -[0m
+[0mGET /word [36m304 [0m0.541 ms - -[0m
+[0mGET /word [36m304 [0m0.531 ms - -[0m
+[0mGET /word [36m304 [0m0.529 ms - -[0m
+[0mGET /word [36m304 [0m0.574 ms - -[0m
+[0mGET /word [36m304 [0m0.529 ms - -[0m
+[0mGET /word [36m304 [0m0.604 ms - -[0m
+[0mGET /word [36m304 [0m0.527 ms - -[0m
+[0mGET /word [36m304 [0m0.529 ms - -[0m
+[0mGET /word [36m304 [0m0.536 ms - -[0m
+[0mGET /word [36m304 [0m0.514 ms - -[0m
+[0mGET /word [36m304 [0m0.513 ms - -[0m
+[0mGET /word [36m304 [0m0.529 ms - -[0m
+[0mGET /word [36m304 [0m0.516 ms - -[0m
+[0mGET /word [36m304 [0m0.597 ms - -[0m
+[0mGET /word [36m304 [0m0.574 ms - -[0m
+[0mGET /word [36m304 [0m0.561 ms - -[0m
+[0mGET /word [36m304 [0m0.573 ms - -[0m
+[0mGET /word [36m304 [0m0.987 ms - -[0m
+[0mGET /word [36m304 [0m0.534 ms - -[0m
+[0mGET /word [36m304 [0m0.508 ms - -[0m
+[0mGET /word [36m304 [0m0.529 ms - -[0m
+[0mGET /word [36m304 [0m0.536 ms - -[0m
+[0mGET /word [36m304 [0m0.515 ms - -[0m
+[0mGET /word [36m304 [0m0.519 ms - -[0m
+[0mGET /word [36m304 [0m0.528 ms - -[0m
+[0mGET /word [36m304 [0m0.523 ms - -[0m
+[0mGET /word [36m304 [0m0.525 ms - -[0m
+[0mGET /word [36m304 [0m2.999 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+15
+afreet
+https://owlbot.info/api/v1/dictionary/afreet?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.483 ms - 8[0m
+[0mGET /randomWord?q=unknown [32m200 [0m150.052 ms - -[0m
+[0mGET /word [32m200 [0m0.532 ms - 8[0m
+[0mGET /word [36m304 [0m0.578 ms - -[0m
+[0mGET /word [36m304 [0m0.530 ms - -[0m
+[0mGET /word [36m304 [0m0.528 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+4
+cat
+https://owlbot.info/api/v1/dictionary/cat?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m1.103 ms - 5[0m
+[0mGET /randomWord?q=unknown [32m200 [0m184.721 ms - -[0m
+[0mGET /word [32m200 [0m0.536 ms - 5[0m
+[0mGET /word [36m304 [0m0.596 ms - -[0m
+In random word route
+[ 'one',
+  'two',
+  'three',
+  'dog',
+  'cat',
+  'lion',
+  'person',
+  'you',
+  'me',
+  'he',
+  'she',
+  'super',
+  'acquiesce',
+  'lollygag',
+  'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother',
+  '' ]
+35
+glaikit
+https://owlbot.info/api/v1/dictionary/glaikit?format=json
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.493 ms - 9[0m
+[0mGET /word [32m200 [0m0.538 ms - 9[0m
+[0mGET /randomWord?q=unknown [32m200 [0m214.399 ms - -[0m
+[0mGET /word [36m304 [0m0.507 ms - -[0m
+[0mGET /word [36m304 [0m0.528 ms - -[0m
+[0mGET /word [36m304 [0m0.537 ms - -[0m
+[0mGET /word [36m304 [0m0.513 ms - -[0m
+[0mGET /word [36m304 [0m0.562 ms - -[0m
+[0mGET /word [36m304 [0m0.560 ms - -[0m
+[0mGET /word [36m304 [0m0.510 ms - -[0m
+[0mGET /word [36m304 [0m0.567 ms - -[0m
+[0mGET /word [36m304 [0m0.530 ms - -[0m
+[0mGET /word [36m304 [0m0.565 ms - -[0m
+[0mGET /word [36m304 [0m0.521 ms - -[0m
+[0mGET /word [36m304 [0m0.556 ms - -[0m
+[0mGET /word [36m304 [0m0.545 ms - -[0m
+[0mGET /word [36m304 [0m1.126 ms - -[0m
+[0mGET /word [36m304 [0m0.521 ms - -[0m
+[0mGET /word [36m304 [0m0.520 ms - -[0m
+[0mGET /word [36m304 [0m0.522 ms - -[0m
+[0mGET /word [36m304 [0m0.500 ms - -[0m
+[0mGET /word [36m304 [0m0.524 ms - -[0m
+[0mGET /word [36m304 [0m0.552 ms - -[0m
+[0mGET /word [36m304 [0m0.539 ms - -[0m
+[0mGET /word [36m304 [0m0.552 ms - -[0m
+[0mGET /word [36m304 [0m4.006 ms - -[0m

@@ -35,13 +35,15 @@ router.get('/randomWord', function(req, res, next) {
         url += word;
         url += "?format=json";
         console.log(url);
-        
 
+        index = getRandomInt(words.length);
+        console.log(index);
+        word = words[index];
         fs.writeFile(__dirname + '/word.txt', word, function(err) {
             if (err) throw err;
             console.log('Replaced!');
         });
-        
+
         //console.log(myRequest);
 
         request(url).pipe(res);
