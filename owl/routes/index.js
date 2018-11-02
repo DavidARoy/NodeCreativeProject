@@ -37,7 +37,7 @@ router.get('/randomWord', function(req, res, next) {
             if (err) throw err;
             console.log('Replaced!');
         });
-
+        
         request(url).pipe(res);
     })
 })

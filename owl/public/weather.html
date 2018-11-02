@@ -1,45 +1,50 @@
 <html>
 
 <head>
-    <title>City Finder</title>
-    <link rel="stylesheet" href="stylesheet/style.css" type="text/css" />
+    <title>Dictionary</title>
+    
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <style>
         body {
             margin: 0;
             display: gird;
-            grid-template-areas: 'header2' 'content2' 'footer';
+           /* grid-template-areas: 'header2' 'content2' 'footer'; */
         }
-      
-.dictionaryTitle {
-    color: black;
-    text-align: center;
-    font-size: 72pt;
-    text-shadow: black 0 0 20px;
-}
+        
+        h3 {
+            font-size: 32pt;
+            margin-bottom: 10px;
+        }
+
+        .dictionaryTitle {
+            color: black;
+            text-align: center;
+            font-size: 72pt;
+            text-shadow: black 0 0 20px;
+            margin: 50px;
+        }
 
 
         .header2 {
             grid-area: header2;
             background-image: url('http://cf.ydcdn.net/latest/images/wordfinder-background.jpg');
-            height: 40vh;
-            padding-top: 50px;
+            height: 40%;
+            padding-top: 5px;
         }
 
         .content2 {
             grid-area: content2;
-            height: 50vh;
+            height: 50%;
             margin-left: 150px;
             margin-top: 15px;
         }
 
         .footer {
             grid-area: footer;
-            height: 5vh;
             text-align: center;
         }
 
-        #dictbutton {
+        #dictbutton, #randomButton {
             border-radius: 10px;
             background-color: #4169e1;
             border: none;
@@ -59,10 +64,11 @@
         <h1 class="dictionaryTitle">Dictionary</h1>
     </div>
     <div class="content2">
+        <h3>Random Word of the Moment!</h3>
         <button id="randomButton">random</button>
         <span id="word"></span>
         <br> Definition: <span id="randomResults"></span>
-    </div>
+
     <script>
         $(document).ready(function() {
             console.log("ready!");
@@ -98,7 +104,8 @@
             })
         })
     </script>
-    <div class="content2">
+
+        <h3>Find Your Own Word!</h3>
         <form>
             Enter a Word to Define: <input type="text" id="mydict" value="">
             <button id="dictbutton">Submit</button><br> Definition: <span id="results"></span>
@@ -121,9 +128,9 @@
             })
         })
     </script>
-    <div class="footer">
-        <p>© 2018 Michelle Bluth and David Roy</p>
-    </div>
+    <!--<div class="footer">-->
+    <!--    <p>© 2018 Michelle Bluth and David Roy</p>-->
+    <!--</div>-->
 </body>
 
 </html>
