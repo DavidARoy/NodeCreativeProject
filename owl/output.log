@@ -1,17 +1,239 @@
 nohup: ignoring input
 Runnin on 4200
-[0mGET /word [36m304 [0m10.131 ms - -[0m
-[0mGET /word [36m304 [0m1.968 ms - -[0m
-[0mGET /word [36m304 [0m0.800 ms - -[0m
-[0mGET /word [36m304 [0m0.593 ms - -[0m
-[0mGET /word [36m304 [0m0.679 ms - -[0m
-[0mGET /word [36m304 [0m0.988 ms - -[0m
-[0mGET /word [36m304 [0m0.721 ms - -[0m
-[0mGET /word [36m304 [0m0.553 ms - -[0m
-[0mGET /word [36m304 [0m0.550 ms - -[0m
-[0mGET /word [36m304 [0m0.916 ms - -[0m
-[0mGET / [32m200 [0m5.333 ms - 3744[0m
-[0mGET /word [36m304 [0m0.734 ms - -[0m
+[0mGET /word [36m304 [0m10.235 ms - -[0m
+[0mGET /word [36m304 [0m1.956 ms - -[0m
+[0mGET /word [36m304 [0m1.040 ms - -[0m
+[0mGET /word [36m304 [0m0.635 ms - -[0m
+[0mGET /word [36m304 [0m0.692 ms - -[0m
+[0mGET /word [36m304 [0m1.065 ms - -[0m
+[0mGET /word [36m304 [0m0.659 ms - -[0m
+[0mGET /word [36m304 [0m0.648 ms - -[0m
+[0mGET / [32m200 [0m5.714 ms - 3716[0m
+In random word route
+[ 'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother' ]
+10
+draff
+https://owlbot.info/api/v1/dictionary/draff?format=json
+23
+[0mGET /word [36m304 [0m10.670 ms - -[0m
+Replaced!
+Replaced!
+[0mGET /word [36m304 [0m0.602 ms - -[0m
+[0mGET /word [36m304 [0m0.562 ms - -[0m
+[0mGET /randomWord?q=unknown [32m200 [0m228.415 ms - -[0m
+[0mGET / [36m304 [0m1.224 ms - -[0m
+[0mGET /word [36m304 [0m1.450 ms - -[0m
+In random word route
+[ 'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother' ]
+37
+nesh
+https://owlbot.info/api/v1/dictionary/nesh?format=json
+38
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m1.344 ms - 8[0m
+[0mGET /word [32m200 [0m1.583 ms - 8[0m
+[0mGET /word [32m200 [0m0.504 ms - 8[0m
+[0mGET /randomWord?q=unknown [32m200 [0m172.672 ms - -[0m
+[0mGET / [36m304 [0m9.357 ms - -[0m
+In random word route
+[ 'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother' ]
+33
+misogamy
+https://owlbot.info/api/v1/dictionary/misogamy?format=json
+42
+[0mGET /word [36m304 [0m3.032 ms - -[0m
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.734 ms - 10[0m
+[0mGET /word [32m200 [0m0.655 ms - 10[0m
+[0mGET /randomWord?q=unknown [32m200 [0m218.629 ms - -[0m
+[0mGET / [36m304 [0m0.596 ms - -[0m
+In random word route
+[ 'luculent',
+  'afreet',
+  'argute',
+  'bilboes',
+  'canorous',
+  'chad',
+  'comess',
+  'claggy',
+  'deedy',
+  'dight',
+  'draff',
+  'effable',
+  'etui',
+  'erf',
+  'erubescent',
+  'famulus',
+  'flocculent',
+  'frondeur',
+  'fugacious',
+  'funambulist',
+  'gallus',
+  'glaikit',
+  'habile',
+  'higgler',
+  'howff',
+  'illywhacker',
+  'jungli',
+  'keek',
+  'labarum',
+  'mallam',
+  'mim',
+  'minibeast',
+  'mimsy',
+  'misogamy',
+  'momism',
+  'mudlark',
+  'nainsook',
+  'nesh',
+  'ogdoad',
+  'orrery',
+  'patulous',
+  'petcock',
+  'pollex',
+  'pother' ]
+42
+pollex
+https://owlbot.info/api/v1/dictionary/pollex?format=json
+41
+[0mGET /word [36m304 [0m1.800 ms - -[0m
+Replaced!
+Replaced!
+[0mGET /word [32m200 [0m0.573 ms - 9[0m
+[0mGET /randomWord?q=unknown [32m200 [0m160.658 ms - -[0m
+[0mGET /word [32m200 [0m0.563 ms - 9[0m
+[0mGET / [36m304 [0m0.773 ms - -[0m
 In random word route
 [ 'luculent',
   'afreet',
@@ -60,238 +282,147 @@ In random word route
 12
 etui
 https://owlbot.info/api/v1/dictionary/etui?format=json
-7
-[0mGET /word [36m304 [0m10.332 ms - -[0m
+39
+[0mGET /word [36m304 [0m2.559 ms - -[0m
 Replaced!
 Replaced!
-[0mGET /word [32m200 [0m1.183 ms - 8[0m
-[0mGET /randomWord?q=unknown [32m200 [0m278.848 ms - -[0m
-[0mGET /word [32m200 [0m0.765 ms - 8[0m
-[0mGET /word [32m200 [0m3.734 ms - 8[0m
-[0mGET /word [36m304 [0m0.725 ms - -[0m
-[0mGET /word [36m304 [0m0.553 ms - -[0m
-[0mGET /word [36m304 [0m9.747 ms - -[0m
-[0mGET /word [36m304 [0m5.933 ms - -[0m
-[0mGET /word [36m304 [0m0.657 ms - -[0m
-[0mGET /word [36m304 [0m0.546 ms - -[0m
-[0mGET /word [36m304 [0m1.226 ms - -[0m
-[0mGET /word [36m304 [0m0.570 ms - -[0m
-[0mGET /word [36m304 [0m0.580 ms - -[0m
-[0mGET /word [36m304 [0m0.756 ms - -[0m
-[0mGET /word [36m304 [0m0.537 ms - -[0m
-[0mGET /word [36m304 [0m0.559 ms - -[0m
-[0mGET /word [36m304 [0m0.554 ms - -[0m
-[0mGET /word [36m304 [0m0.472 ms - -[0m
-[0mGET /word [36m304 [0m0.546 ms - -[0m
-[0mGET /word [36m304 [0m1.528 ms - -[0m
-[0mGET /word [36m304 [0m1.201 ms - -[0m
+[0mGET /word [32m200 [0m0.556 ms - 8[0m
+[0mGET /randomWord?q=unknown [32m200 [0m115.782 ms - -[0m
+[0mGET /word [32m200 [0m0.553 ms - 8[0m
+[0mGET /word [36m304 [0m0.561 ms - -[0m
+[0mGET /word [36m304 [0m1.332 ms - -[0m
+[0mGET /word [36m304 [0m1.115 ms - -[0m
 [0mGET /word [36m304 [0m0.552 ms - -[0m
-[0mGET /word [36m304 [0m0.569 ms - -[0m
-[0mGET /word [36m304 [0m0.362 ms - -[0m
-[0mGET /word [36m304 [0m0.568 ms - -[0m
-[0mGET /word [36m304 [0m0.727 ms - -[0m
-[0mGET /word [36m304 [0m0.342 ms - -[0m
-[0mGET /word [36m304 [0m0.557 ms - -[0m
-[0mGET /word [36m304 [0m0.559 ms - -[0m
-[0mGET /word [36m304 [0m0.700 ms - -[0m
-[0mGET /word [36m304 [0m1.048 ms - -[0m
-[0mGET /word [36m304 [0m2.942 ms - -[0m
-[0mGET /word [36m304 [0m1.323 ms - -[0m
-[0mGET /word [36m304 [0m0.790 ms - -[0m
-[0mGET /word [36m304 [0m0.635 ms - -[0m
-[0mGET /word [36m304 [0m0.418 ms - -[0m
-[0mGET /word [36m304 [0m2.906 ms - -[0m
-[0mGET /word [36m304 [0m0.547 ms - -[0m
-[0mGET /word [36m304 [0m0.361 ms - -[0m
-[0mGET /word [36m304 [0m0.669 ms - -[0m
-[0mGET /word [36m304 [0m0.567 ms - -[0m
-[0mGET /word [36m304 [0m1.840 ms - -[0m
-[0mGET /word [36m304 [0m1.223 ms - -[0m
-[0mGET /word [36m304 [0m0.525 ms - -[0m
-[0mGET /word [36m304 [0m0.352 ms - -[0m
-[0mGET /word [36m304 [0m0.683 ms - -[0m
-[0mGET /word [36m304 [0m0.588 ms - -[0m
-[0mGET /word [36m304 [0m1.781 ms - -[0m
-[0mGET /word [36m304 [0m1.018 ms - -[0m
-[0mGET /word [36m304 [0m0.723 ms - -[0m
-[0mGET /word [36m304 [0m0.971 ms - -[0m
+[0mGET /word [36m304 [0m0.903 ms - -[0m
+[0mGET /word [36m304 [0m0.554 ms - -[0m
+[0mGET /word [36m304 [0m0.595 ms - -[0m
+[0mGET /word [36m304 [0m1.302 ms - -[0m
+[0mGET /word [36m304 [0m0.580 ms - -[0m
 [0mGET /word [36m304 [0m1.236 ms - -[0m
-[0mGET /word [36m304 [0m1.073 ms - -[0m
-[0mGET /word [36m304 [0m0.450 ms - -[0m
-[0mGET /word [36m304 [0m0.573 ms - -[0m
-[0mGET /word [36m304 [0m0.646 ms - -[0m
-[0mGET /word [36m304 [0m0.475 ms - -[0m
-[0mGET /word [36m304 [0m0.570 ms - -[0m
-[0mGET /word [36m304 [0m0.660 ms - -[0m
-[0mGET /word [36m304 [0m0.374 ms - -[0m
-[0mGET /word [36m304 [0m0.556 ms - -[0m
-[0mGET /word [36m304 [0m0.674 ms - -[0m
-[0mGET /word [36m304 [0m0.345 ms - -[0m
-[0mGET /word [36m304 [0m12.065 ms - -[0m
-[0mGET /word [36m304 [0m5.576 ms - -[0m
-[0mGET /word [36m304 [0m0.786 ms - -[0m
-[0mGET /word [36m304 [0m0.908 ms - -[0m
-[0mGET /word [36m304 [0m0.925 ms - -[0m
-[0mGET /word [36m304 [0m0.404 ms - -[0m
-[0mGET /word [36m304 [0m0.586 ms - -[0m
-[0mGET /word [36m304 [0m0.681 ms - -[0m
-[0mGET /word [36m304 [0m0.390 ms - -[0m
-[0mGET /word [36m304 [0m0.689 ms - -[0m
-[0mGET /word [36m304 [0m0.691 ms - -[0m
-[0mGET /word [36m304 [0m0.388 ms - -[0m
-[0mGET /word [36m304 [0m0.683 ms - -[0m
-[0mGET /word [36m304 [0m0.578 ms - -[0m
-[0mGET /word [36m304 [0m0.544 ms - -[0m
-[0mGET /word [36m304 [0m0.680 ms - -[0m
-[0mGET /word [36m304 [0m0.680 ms - -[0m
-[0mGET /word [36m304 [0m0.868 ms - -[0m
-[0mGET /word [36m304 [0m0.952 ms - -[0m
-[0mGET /word [36m304 [0m0.803 ms - -[0m
-[0mGET /word [36m304 [0m1.387 ms - -[0m
-[0mGET /word [36m304 [0m0.570 ms - -[0m
-[0mGET /word [36m304 [0m0.572 ms - -[0m
-[0mGET /word [36m304 [0m0.815 ms - -[0m
-[0mGET /word [36m304 [0m0.564 ms - -[0m
-[0mGET /word [36m304 [0m0.555 ms - -[0m
-[0mGET /word [36m304 [0m0.438 ms - -[0m
-[0mGET /word [36m304 [0m3.297 ms - -[0m
-[0mGET /word [36m304 [0m0.569 ms - -[0m
-[0mGET /word [36m304 [0m0.413 ms - -[0m
-[0mGET /word [36m304 [0m0.582 ms - -[0m
-[0mGET /word [36m304 [0m0.554 ms - -[0m
-[0mGET /word [36m304 [0m0.560 ms - -[0m
-[0mGET /word [36m304 [0m0.545 ms - -[0m
-[0mGET /word [36m304 [0m0.558 ms - -[0m
-[0mGET /word [36m304 [0m0.534 ms - -[0m
-[0mGET /word [36m304 [0m0.572 ms - -[0m
-[0mGET /word [36m304 [0m0.549 ms - -[0m
-[0mGET /word [36m304 [0m0.555 ms - -[0m
-[0mGET /word [36m304 [0m0.555 ms - -[0m
-[0mGET /word [36m304 [0m0.551 ms - -[0m
-[0mGET /word [36m304 [0m0.528 ms - -[0m
-[0mGET /word [36m304 [0m0.548 ms - -[0m
-[0mGET /word [36m304 [0m0.611 ms - -[0m
-[0mGET /word [36m304 [0m0.532 ms - -[0m
-[0mGET /word [36m304 [0m0.571 ms - -[0m
-[0mGET /word [36m304 [0m0.566 ms - -[0m
-[0mGET /word [36m304 [0m0.555 ms - -[0m
-[0mGET /word [36m304 [0m0.728 ms - -[0m
-[0mGET /word [36m304 [0m1.316 ms - -[0m
-[0mGET /word [36m304 [0m0.556 ms - -[0m
-[0mGET /word [36m304 [0m0.551 ms - -[0m
-[0mGET /word [36m304 [0m0.736 ms - -[0m
-[0mGET /word [36m304 [0m3.645 ms - -[0m
-[0mGET /word [36m304 [0m4.173 ms - -[0m
-[0mGET /word [36m304 [0m2.988 ms - -[0m
-[0mGET /word [36m304 [0m2.949 ms - -[0m
-[0mGET /word [36m304 [0m8.693 ms - -[0m
-[0mGET /word [36m304 [0m0.555 ms - -[0m
-[0mGET /word [36m304 [0m0.954 ms - -[0m
-[0mGET /word [36m304 [0m1.365 ms - -[0m
-[0mGET /word [36m304 [0m0.547 ms - -[0m
-[0mGET /word [36m304 [0m0.545 ms - -[0m
-[0mGET /word [36m304 [0m0.522 ms - -[0m
-[0mGET /word [36m304 [0m0.551 ms - -[0m
-[0mGET /word [36m304 [0m0.580 ms - -[0m
-[0mGET /word [36m304 [0m1.265 ms - -[0m
-[0mGET /word [36m304 [0m0.876 ms - -[0m
+[0mGET /word [36m304 [0m0.568 ms - -[0m
 [0mGET /word [36m304 [0m0.584 ms - -[0m
-[0mGET /word [36m304 [0m0.523 ms - -[0m
-[0mGET /word [36m304 [0m0.853 ms - -[0m
-[0mGET /word [36m304 [0m0.523 ms - -[0m
+[0mGET /word [36m304 [0m0.953 ms - -[0m
+[0mGET /word [36m304 [0m0.616 ms - -[0m
 [0mGET /word [36m304 [0m0.542 ms - -[0m
-[0mGET /word [36m304 [0m0.546 ms - -[0m
-[0mGET /word [36m304 [0m0.560 ms - -[0m
-[0mGET /word [36m304 [0m0.530 ms - -[0m
-[0mGET /word [36m304 [0m0.530 ms - -[0m
-[0mGET /word [36m304 [0m0.533 ms - -[0m
-[0mGET /word [36m304 [0m0.553 ms - -[0m
-[0mGET /word [36m304 [0m4.129 ms - -[0m
-[0mGET /word [36m304 [0m0.531 ms - -[0m
-[0mGET /word [36m304 [0m0.519 ms - -[0m
-[0mGET /word [36m304 [0m0.525 ms - -[0m
-[0mGET /word [36m304 [0m0.506 ms - -[0m
-[0mGET /word [36m304 [0m0.932 ms - -[0m
-[0mGET /word [36m304 [0m0.564 ms - -[0m
-[0mGET /word [36m304 [0m0.501 ms - -[0m
-[0mGET /word [36m304 [0m0.529 ms - -[0m
-[0mGET /word [36m304 [0m0.533 ms - -[0m
-[0mGET /word [36m304 [0m0.517 ms - -[0m
-[0mGET /word [36m304 [0m0.517 ms - -[0m
-[0mGET /word [36m304 [0m0.575 ms - -[0m
-[0mGET /word [36m304 [0m0.506 ms - -[0m
-[0mGET /word [36m304 [0m0.503 ms - -[0m
-[0mGET /word [36m304 [0m0.557 ms - -[0m
-[0mGET /word [36m304 [0m0.516 ms - -[0m
-[0mGET /word [36m304 [0m0.518 ms - -[0m
-[0mGET /word [36m304 [0m0.527 ms - -[0m
-[0mGET /word [36m304 [0m0.544 ms - -[0m
-[0mGET /word [36m304 [0m0.539 ms - -[0m
-[0mGET /word [36m304 [0m0.540 ms - -[0m
-[0mGET /word [36m304 [0m0.534 ms - -[0m
-[0mGET /word [36m304 [0m0.558 ms - -[0m
-[0mGET /word [36m304 [0m0.533 ms - -[0m
-[0mGET /word [36m304 [0m0.511 ms - -[0m
-[0mGET /word [36m304 [0m0.526 ms - -[0m
-[0mGET /word [36m304 [0m0.536 ms - -[0m
-[0mGET /word [36m304 [0m0.505 ms - -[0m
-[0mGET /word [36m304 [0m0.529 ms - -[0m
-[0mGET /word [36m304 [0m0.887 ms - -[0m
-[0mGET /word [36m304 [0m0.507 ms - -[0m
-[0mGET /word [36m304 [0m0.524 ms - -[0m
-[0mGET /word [36m304 [0m0.521 ms - -[0m
-[0mGET /word [36m304 [0m0.542 ms - -[0m
-[0mGET /word [36m304 [0m0.522 ms - -[0m
-[0mGET /word [36m304 [0m0.866 ms - -[0m
-[0mGET /word [36m304 [0m0.527 ms - -[0m
-[0mGET /word [36m304 [0m0.510 ms - -[0m
-[0mGET /word [36m304 [0m0.552 ms - -[0m
-[0mGET /word [36m304 [0m0.494 ms - -[0m
-[0mGET /word [36m304 [0m1.423 ms - -[0m
-[0mGET /word [36m304 [0m0.557 ms - -[0m
-[0mGET /word [36m304 [0m0.488 ms - -[0m
-[0mGET /word [36m304 [0m0.506 ms - -[0m
+[0mGET /word [36m304 [0m2.098 ms - -[0m
+[0mGET /word [36m304 [0m0.619 ms - -[0m
+[0mGET /word [36m304 [0m1.052 ms - -[0m
+[0mGET /word [36m304 [0m0.648 ms - -[0m
+[0mGET /word [36m304 [0m0.745 ms - -[0m
+[0mGET /word [36m304 [0m12.815 ms - -[0m
+[0mGET /word [36m304 [0m5.206 ms - -[0m
+[0mGET /word [36m304 [0m1.005 ms - -[0m
+[0mGET /word [36m304 [0m1.106 ms - -[0m
+[0mGET /word [36m304 [0m0.820 ms - -[0m
+[0mGET /word [36m304 [0m1.732 ms - -[0m
+[0mGET /word [36m304 [0m0.592 ms - -[0m
+[0mGET /word [36m304 [0m0.694 ms - -[0m
+[0mGET /word [36m304 [0m0.565 ms - -[0m
+[0mGET /word [36m304 [0m0.731 ms - -[0m
+[0mGET /word [36m304 [0m0.660 ms - -[0m
+[0mGET /word [36m304 [0m1.268 ms - -[0m
+[0mGET /word [36m304 [0m6.675 ms - -[0m
+[0mGET /word [36m304 [0m0.994 ms - -[0m
+[0mGET /word [36m304 [0m0.832 ms - -[0m
+[0mGET /word [36m304 [0m0.881 ms - -[0m
+[0mGET /word [36m304 [0m0.746 ms - -[0m
+[0mGET /word [36m304 [0m0.593 ms - -[0m
+[0mGET /word [36m304 [0m0.709 ms - -[0m
+[0mGET /word [36m304 [0m0.593 ms - -[0m
+[0mGET /word [36m304 [0m0.652 ms - -[0m
+[0mGET /word [36m304 [0m10.976 ms - -[0m
+[0mGET /word [36m304 [0m1.150 ms - -[0m
+[0mGET /word [36m304 [0m0.830 ms - -[0m
+[0mGET /word [36m304 [0m0.752 ms - -[0m
+[0mGET /word [36m304 [0m0.577 ms - -[0m
+[0mGET /word [36m304 [0m0.629 ms - -[0m
+[0mGET /word [36m304 [0m0.571 ms - -[0m
+[0mGET /word [36m304 [0m0.656 ms - -[0m
+[0mGET /word [36m304 [0m0.577 ms - -[0m
+[0mGET /word [36m304 [0m0.587 ms - -[0m
 [0mGET /word [36m304 [0m0.549 ms - -[0m
-[0mGET /word [36m304 [0m0.498 ms - -[0m
-[0mGET /word [36m304 [0m0.511 ms - -[0m
+[0mGET /word [36m304 [0m0.549 ms - -[0m
+[0mGET /word [36m304 [0m0.549 ms - -[0m
+[0mGET /word [36m304 [0m0.558 ms - -[0m
 [0mGET /word [36m304 [0m0.536 ms - -[0m
-[0mGET /word [36m304 [0m0.518 ms - -[0m
-[0mGET /word [36m304 [0m0.543 ms - -[0m
-[0mGET /word [36m304 [0m0.516 ms - -[0m
-[0mGET /word [36m304 [0m0.524 ms - -[0m
-[0mGET /word [36m304 [0m0.552 ms - -[0m
-[0mGET /word [36m304 [0m0.497 ms - -[0m
-[0mGET /word [36m304 [0m0.889 ms - -[0m
-[0mGET /word [36m304 [0m0.483 ms - -[0m
-[0mGET /word [36m304 [0m0.543 ms - -[0m
-[0mGET /word [36m304 [0m0.352 ms - -[0m
-[0mGET /word [36m304 [0m0.539 ms - -[0m
-[0mGET /word [36m304 [0m0.508 ms - -[0m
-[0mGET /word [36m304 [0m0.489 ms - -[0m
-[0mGET /word [36m304 [0m0.536 ms - -[0m
-[0mGET /word [36m304 [0m0.508 ms - -[0m
-[0mGET /word [36m304 [0m0.381 ms - -[0m
+[0mGET /word [36m304 [0m0.554 ms - -[0m
+[0mGET /word [36m304 [0m1.542 ms - -[0m
+[0mGET /word [36m304 [0m0.544 ms - -[0m
+[0mGET /word [36m304 [0m0.546 ms - -[0m
+[0mGET /word [36m304 [0m0.582 ms - -[0m
+[0mGET /word [36m304 [0m0.568 ms - -[0m
+[0mGET /word [36m304 [0m1.249 ms - -[0m
+[0mGET /word [36m304 [0m0.980 ms - -[0m
+[0mGET /word [36m304 [0m0.787 ms - -[0m
+[0mGET /word [36m304 [0m2.758 ms - -[0m
+[0mGET /word [36m304 [0m0.549 ms - -[0m
+[0mGET /word [36m304 [0m0.522 ms - -[0m
+[0mGET /word [36m304 [0m0.545 ms - -[0m
+[0mGET /word [36m304 [0m1.073 ms - -[0m
 [0mGET /word [36m304 [0m0.560 ms - -[0m
 [0mGET /word [36m304 [0m0.530 ms - -[0m
-[0mGET /word [36m304 [0m0.331 ms - -[0m
-[0mGET /word [36m304 [0m1.119 ms - -[0m
+[0mGET /word [36m304 [0m0.551 ms - -[0m
+[0mGET /word [36m304 [0m0.607 ms - -[0m
+[0mGET /word [36m304 [0m1.240 ms - -[0m
+[0mGET /word [36m304 [0m0.536 ms - -[0m
+[0mGET /word [36m304 [0m0.542 ms - -[0m
+[0mGET /word [36m304 [0m0.528 ms - -[0m
+[0mGET /word [36m304 [0m0.677 ms - -[0m
+[0mGET /word [36m304 [0m0.523 ms - -[0m
+[0mGET /word [36m304 [0m0.540 ms - -[0m
+[0mGET /word [36m304 [0m0.526 ms - -[0m
+[0mGET /word [36m304 [0m0.822 ms - -[0m
+[0mGET /word [36m304 [0m0.525 ms - -[0m
+[0mGET /word [36m304 [0m0.535 ms - -[0m
+[0mGET /word [36m304 [0m0.521 ms - -[0m
+[0mGET /word [36m304 [0m1.356 ms - -[0m
+[0mGET /word [36m304 [0m1.125 ms - -[0m
+[0mGET /word [36m304 [0m0.572 ms - -[0m
+[0mGET /word [36m304 [0m0.559 ms - -[0m
+[0mGET /word [36m304 [0m2.922 ms - -[0m
+[0mGET /word [36m304 [0m2.051 ms - -[0m
+[0mGET /word [36m304 [0m2.970 ms - -[0m
+[0mGET /word [36m304 [0m0.545 ms - -[0m
+[0mGET /word [36m304 [0m0.526 ms - -[0m
+[0mGET /word [36m304 [0m0.703 ms - -[0m
+[0mGET /word [36m304 [0m1.130 ms - -[0m
+[0mGET /word [36m304 [0m2.952 ms - -[0m
+[0mGET /word [36m304 [0m3.301 ms - -[0m
+[0mGET /word [36m304 [0m0.541 ms - -[0m
+[0mGET /word [36m304 [0m1.337 ms - -[0m
+[0mGET /word [36m304 [0m0.578 ms - -[0m
+[0mGET /word [36m304 [0m2.600 ms - -[0m
+[0mGET /word [36m304 [0m0.532 ms - -[0m
+[0mGET /word [36m304 [0m0.532 ms - -[0m
+[0mGET /word [36m304 [0m0.559 ms - -[0m
+[0mGET /word [36m304 [0m0.823 ms - -[0m
+[0mGET /word [36m304 [0m6.446 ms - -[0m
+[0mGET /word [36m304 [0m0.552 ms - -[0m
+[0mGET /word [36m304 [0m1.269 ms - -[0m
+[0mGET /word [36m304 [0m0.854 ms - -[0m
+[0mGET /word [36m304 [0m0.510 ms - -[0m
+[0mGET /word [36m304 [0m0.507 ms - -[0m
+[0mGET /word [36m304 [0m0.546 ms - -[0m
+[0mGET /word [36m304 [0m0.551 ms - -[0m
+[0mGET /word [36m304 [0m0.530 ms - -[0m
 [0mGET /word [36m304 [0m0.522 ms - -[0m
-[0mGET /word [36m304 [0m0.314 ms - -[0m
-[0mGET /word [36m304 [0m0.508 ms - -[0m
+[0mGET /word [36m304 [0m0.548 ms - -[0m
+[0mGET /word [36m304 [0m0.530 ms - -[0m
+[0mGET /word [36m304 [0m0.513 ms - -[0m
+[0mGET /word [36m304 [0m0.552 ms - -[0m
+[0mGET /word [36m304 [0m0.512 ms - -[0m
+[0mGET /word [36m304 [0m0.518 ms - -[0m
+[0mGET /word [36m304 [0m0.529 ms - -[0m
+[0mGET /word [36m304 [0m0.532 ms - -[0m
+[0mGET /word [36m304 [0m0.548 ms - -[0m
+[0mGET /word [36m304 [0m0.506 ms - -[0m
+[0mGET /word [36m304 [0m0.528 ms - -[0m
+[0mGET /word [36m304 [0m0.490 ms - -[0m
+[0mGET /word [36m304 [0m0.597 ms - -[0m
+[0mGET /word [36m304 [0m0.524 ms - -[0m
 [0mGET /word [36m304 [0m0.514 ms - -[0m
-[0mGET /word [36m304 [0m0.466 ms - -[0m
-[0mGET /word [36m304 [0m0.519 ms - -[0m
-[0mGET /word [36m304 [0m0.527 ms - -[0m
-[0mGET /word [36m304 [0m0.337 ms - -[0m
-[0mGET /word [36m304 [0m0.493 ms - -[0m
-[0mGET /word [36m304 [0m0.502 ms - -[0m
-[0mGET /word [36m304 [0m0.321 ms - -[0m
-[0mGET /word [36m304 [0m0.841 ms - -[0m
-[0mGET /word [36m304 [0m0.495 ms - -[0m
-[0mGET /word [36m304 [0m0.349 ms - -[0m
-[0mGET /word [36m304 [0m0.494 ms - -[0m
-[0mGET /word [36m304 [0m0.499 ms - -[0m
-[0mGET /word [36m304 [0m0.390 ms - -[0m
-[0mGET /word [36m304 [0m0.511 ms - -[0m
-[0mGET /word [36m304 [0m0.504 ms - -[0m
-[0mGET /word [36m304 [0m0.324 ms - -[0m
+[0mGET /word [36m304 [0m0.571 ms - -[0m
+[0mGET /word [36m304 [0m0.540 ms - -[0m
+[0mGET /word [36m304 [0m0.520 ms - -[0m
+[0mGET /word [36m304 [0m0.534 ms - -[0m
+[0mGET /word [36m304 [0m0.578 ms - -[0m
