@@ -1,17 +1,3 @@
-one
-two
-three
-dog
-cat
-lion
-person
-you
-me
-he
-she
-super
-acquiesce
-lollygag
 luculent
 afreet
 argute

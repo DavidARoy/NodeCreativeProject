@@ -121,29 +121,7 @@
         })
     </script>
 
-        <h3>Find Your Own Word!</h3>
-        <form>
-            Enter a Word to Define: <input type="text" id="mydict" value="">
-            <button id="dictbutton">Submit</button><br> Definition: <span id="results"></span>
-        </form>
-    </div>
-    <script>
-        $("#dictbutton").click(function(event) {
-            event.preventDefault();
-            var url = "dictionary?q=";
-            url += $("#mydict").val();
-            console.log(url);
-            $.getJSON(url, function(data) {
-                console.log(data);
-                var everything = "<ul>";
-                $.each(data, function(i, item) {
-                    everything += "<li>" + data[i].defenition + "</li>"
-                })
-                everything += "</ul>";
-                $("#results").html(everything);
-            })
-        })
-    </script>
+        
     <!--<div class="footer">-->
     <!--    <p>© 2018 Michelle Bluth and David Roy</p>-->
     <!--</div>-->
