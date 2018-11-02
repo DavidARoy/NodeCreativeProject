@@ -54,4 +54,5 @@ ogdoad
 orrery
 patulous
 petcock
-
+pollex
+pother
