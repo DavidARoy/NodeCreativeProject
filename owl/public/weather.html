@@ -71,6 +71,8 @@
     <script>
         $(document).ready(function() {
             console.log("ready!");
+            randomFunction();
+            wordFunction();
             var myVar = setInterval(function() { wordFunction(); }, 1000);
                 console.log("hope it works");
             $("#randomButton").on('click', function(event) {
