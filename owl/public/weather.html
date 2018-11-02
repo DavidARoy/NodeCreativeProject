@@ -10,13 +10,13 @@
             display: gird;
             grid-template-areas: 'header2' 'content2' 'footer';
         }
-      
-.dictionaryTitle {
-    color: black;
-    text-align: center;
-    font-size: 72pt;
-    text-shadow: black 0 0 20px;
-}
+
+        .dictionaryTitle {
+            color: black;
+            text-align: center;
+            font-size: 72pt;
+            text-shadow: black 0 0 20px;
+        }
 
 
         .header2 {
@@ -66,11 +66,14 @@
     <script>
         $(document).ready(function() {
             console.log("ready!");
-            $("#randomButton").trigger('click');
-            $("#randomButton").trigger('click');
-
-            $("#randomButton").click(function(event) {
+            var myVar = setInterval(function() { wordFunction(); }, 1000);
+                console.log("hope it works");
+            $("#randomButton").on('click', function(event) {
                 event.preventDefault();
+                randomFunction();
+            })
+
+            function randomFunction() {
                 var url = "randomWord?q=";
                 url += "unknown";
                 console.log(url);
@@ -83,8 +86,21 @@
                     everything += "</ul>";
                     $("#randomResults").html(everything);
                 })
-            })
-            $("#randomButton").click(function(event) {
+                wordFunction();
+            }
+
+            function wordFunction() {
+                var url = "word";
+                console.log(url);
+                $.getJSON(url, function(data) {
+                    console.log(data);
+                    var everything = "<h2>";
+                    everything += data;
+                    everything += "</h2>";
+                    $("#word").html(everything);
+                })
+            }
+            /*$("#randomButton").on('click', function(event) {
                 event.preventDefault();
                 var url = "word";
                 console.log(url);
@@ -96,6 +112,7 @@
                     $("#word").html(everything);
                 })
             })
+            */
         })
     </script>
     <div class="content2">
