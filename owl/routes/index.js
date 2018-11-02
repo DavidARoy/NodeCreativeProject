@@ -26,18 +26,24 @@ router.get('/randomWord', function(req, res, next) {
         index = getRandomInt(words.length);
         console.log(index);
         word = words[index];
+        fs.writeFile(__dirname + '/word.txt', word, function(err) {
+            if (err) throw err;
+            console.log('Replaced!');
+        });
         console.log(word);
         url = "https://owlbot.info/api/v1/dictionary/";
         url += word;
         url += "?format=json";
         console.log(url);
-
         
+
         fs.writeFile(__dirname + '/word.txt', word, function(err) {
             if (err) throw err;
             console.log('Replaced!');
         });
         
+        //console.log(myRequest);
+
         request(url).pipe(res);
     })
 })

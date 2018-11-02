@@ -24,7 +24,6 @@
             margin: 50px;
         }
 
-
         .header2 {
             grid-area: header2;
             background-image: url('http://cf.ydcdn.net/latest/images/wordfinder-background.jpg');
@@ -72,11 +71,14 @@
     <script>
         $(document).ready(function() {
             console.log("ready!");
-            $("#randomButton").trigger('click');
-            $("#randomButton").trigger('click');
-
-            $("#randomButton").click(function(event) {
+            var myVar = setInterval(function() { wordFunction(); }, 1000);
+                console.log("hope it works");
+            $("#randomButton").on('click', function(event) {
                 event.preventDefault();
+                randomFunction();
+            })
+
+            function randomFunction() {
                 var url = "randomWord?q=";
                 url += "unknown";
                 console.log(url);
@@ -89,8 +91,21 @@
                     everything += "</ul>";
                     $("#randomResults").html(everything);
                 })
-            })
-            $("#randomButton").click(function(event) {
+                wordFunction();
+            }
+
+            function wordFunction() {
+                var url = "word";
+                console.log(url);
+                $.getJSON(url, function(data) {
+                    console.log(data);
+                    var everything = "<h2>";
+                    everything += data;
+                    everything += "</h2>";
+                    $("#word").html(everything);
+                })
+            }
+            /*$("#randomButton").on('click', function(event) {
                 event.preventDefault();
                 var url = "word";
                 console.log(url);
@@ -102,6 +117,7 @@
                     $("#word").html(everything);
                 })
             })
+            */
         })
     </script>
 
