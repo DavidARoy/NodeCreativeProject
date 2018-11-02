@@ -4,7 +4,7 @@ var request = require('request');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-    res.sendFile('weather.html', { root: 'public' });
+    res.sendFile('dictionary.html', { root: 'public' });
 });
 
 router.get('/randomWord', function(req, res, next) {
